@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table id="covid_data_table">
+        <thead class="table__header">
+            <tr>
+                <td class="table__header-cell">Estado</td>
+                <td class="table__header-cell">2ª dose<br>ou dose<br>única<br>(Unidades)</td>
+                <td class="table__header-cell table__header-cell--blue">2ª dose<br>ou dose<br>única<br>(Em %)</td>
+                <td class="table__header-cell">Dose de<br>reforço*<br>(Unidades)</td>
+                <td class="table__header-cell table__header-cell--green">Dose de<br>reforço*<br>(Em %)</td>
+                <td class="table__header-cell">1ª dose<br>(Unidade)</td>
+                <td class="table__header-cell table__header-cell--red">1ª dose<br>(Em %)</td>
+                <td class="table__header-cell">Total de<br>vacinas<br>aplicadas</td>
+            </tr>
+        </thead>
+        <tbody class="table__body">
+            <tr class="table__row">
+                <td class="table__row-cell">Acre</td>
+                <td class="table__row-cell">597.935</td>
+                <td class="table__row-cell table__row-cell--blue">65,05%</td>
+                <td class="table__row-cell">284.813</td>
+                <td class="table__row-cell table__row-cell--green">30,99%</td>
+                <td class="table__row-cell">696.619</td>
+                <td class="table__row-cell table__row-cell--red">75,79%</td>
+                <td class="table__row-cell">1.280.931</td>
+            </tr>
+            <tr class="table__row">
+                <td class="table__row-cell">Alagoas</td>
+                <td class="table__row-cell">2.355.718</td>
+                <td class="table__row-cell table__row-cell--blue">69,73%</td>
+                <td class="table__row-cell">1.272.731</td>
+                <td class="table__row-cell table__row-cell--green">37,67%</td>
+                <td class="table__row-cell">2.642.076</td>
+                <td class="table__row-cell table__row-cell--red">78,21%</td>
+                <td class="table__row-cell">4.941.707</td>
+            </tr>
+            <tr class="table__row">
+                <td class="table__row-cell">Amazonas</td>
+                <td class="table__row-cell">2.922.899</td>
+                <td class="table__row-cell table__row-cell--blue">67,48%</td>
+                <td class="table__row-cell">1.691.944</td>
+                <td class="table__row-cell table__row-cell--green">39,06%</td>
+                <td class="table__row-cell">3.361.647</td>
+                <td class="table__row-cell table__row-cell--red">77,61%</td>
+                <td class="table__row-cell">6.209.127</td>
+            </tr>
+            <tr class="table__row">
+                <td class="table__row-cell">Amapá</td>
+                <td class="table__row-cell">514.824</td>
+                <td class="table__row-cell table__row-cell--blue">57,63%</td>
+                <td class="table__row-cell">269.240</td>
+                <td class="table__row-cell table__row-cell--green">30,14%</td>
+                <td class="table__row-cell">614.022</td>
+                <td class="table__row-cell table__row-cell--red">68,74%</td>
+                <td class="table__row-cell">1.111.564</td>
+            </tr>
+            <tr class="table__row">
+                <td class="table__row-cell">Bahia</td>
+                <td class="table__row-cell">11.226.993</td>
+                <td class="table__row-cell table__row-cell--blue">74,66%</td>
+                <td class="table__row-cell">7.710.188</td>
+                <td class="table__row-cell table__row-cell--green">51,28%</td>
+                <td class="table__row-cell">11.717.323</td>
+                <td class="table__row-cell table__row-cell--red">77,93%</td>
+                <td class="table__row-cell">22.679.938</td>
+            </tr>
+            <tr class="table__row">
+                <td class="table__row-cell">Ceará</td>
+                <td class="table__row-cell">8.076.454</td>
+                <td class="table__row-cell table__row-cell--blue">86,91%</td>
+                <td class="table__row-cell">5.391.468</td>
+                <td class="table__row-cell table__row-cell--green">58,02%</td>
+                <td class="table__row-cell">8.294.079</td>
+                <td class="table__row-cell table__row-cell--red">89,25%</td>
+                <td class="table__row-cell">16.087.812</td>
+            </tr>
+            <tr class="table__row">
+                <td class="table__row-cell">Distrito Federal</td>
+                <td class="table__row-cell">2.480.046</td>
+                <td class="table__row-cell table__row-cell--blue">79,23%</td>
+                <td class="table__row-cell">1.527.089</td>
+                <td class="table__row-cell table__row-cell--green">48,79%</td>
+                <td class="table__row-cell">2.566.016</td>
+                <td class="table__row-cell table__row-cell--red">81,98%</td>
+                <td class="table__row-cell">4.984.915</td>
+            </tr>
+            <tr class="table__row">
+                <td class="table__row-cell">Espírito Santo</td>
+                <td class="table__row-cell">3.227.524</td>
+                <td class="table__row-cell table__row-cell--blue">77,74%</td>
+                <td class="table__row-cell">1.957.707</td>
+                <td class="table__row-cell table__row-cell--green">47,15%</td>
+                <td class="table__row-cell">3.469.351</td>
+                <td class="table__row-cell table__row-cell--red">83,56%</td>
+                <td class="table__row-cell">6.585.652</td>
+            </tr>
+            <tr class="table__row">
+                <td class="table__row-cell">Goiás</td>
+                <td class="table__row-cell">5.342.715</td>
+                <td class="table__row-cell table__row-cell--blue">73,19%</td>
+                <td class="table__row-cell">3.001.131</td>
+                <td class="table__row-cell table__row-cell--green">41,11%</td>
+                <td class="table__row-cell">5.920.789</td>
+                <td class="table__row-cell table__row-cell--red">81,11%</td>
+                <td class="table__row-cell">11.263.504</td>
+            </tr>
+            <tr class="table__row">
+                <td class="table__row-cell">Maranhão</td>
+                <td class="table__row-cell">4.903.627</td>
+                <td class="table__row-cell table__row-cell--blue">68,19%</td>
+                <td class="table__row-cell">2.190.968</td>
+                <td class="table__row-cell table__row-cell--green">30,47%</td>
+                <td class="table__row-cell">5.797.633</td>
+                <td class="table__row-cell table__row-cell--red">80,62%</td>
+                <td class="table__row-cell">10.570.892</td>
+            </tr>
+            <tr class="table__row">
+                <td class="table__row-cell">Minas Gerais</td>
+                <td class="table__row-cell">17.330.069</td>
+                <td class="table__row-cell table__row-cell--blue">80,51%</td>
+                <td class="table__row-cell">11.782.249</td>
+                <td class="table__row-cell table__row-cell--green">54,73%</td>
+                <td class="table__row-cell">18.312.594</td>
+                <td class="table__row-cell table__row-cell--red">85,07%</td>
+                <td class="table__row-cell">35.642.663</td>
+            </tr>
+            <tr class="table__row">
+                <td class="table__row-cell">Mato Grosso do Sul</td>
+                <td class="table__row-cell">2.236.412</td>
+                <td class="table__row-cell table__row-cell--blue">77,97%</td>
+                <td class="table__row-cell">1.194.753</td>
+                <td class="table__row-cell table__row-cell--green">41,65%</td>
+                <td class="table__row-cell">2.265.615</td>
+                <td class="table__row-cell table__row-cell--red">78,99%</td>
+                <td class="table__row-cell">4.244.041</td>
+            </tr>
+            <tr class="table__row">
+                <td class="table__row-cell">Mato Grosso</td>
+                <td class="table__row-cell">2.543.348</td>
+                <td class="table__row-cell table__row-cell--blue">70,50%</td>
+                <td class="table__row-cell">1.237.270</td>
+                <td class="table__row-cell table__row-cell--green">34,30%</td>
+                <td class="table__row-cell">2.847.379</td>
+                <td class="table__row-cell table__row-cell--red">78,93%</td>
+                <td class="table__row-cell">5.287.160</td>
+            </tr>
+            <tr class="table__row">
+                <td class="table__row-cell">Pará</td>
+                <td class="table__row-cell">6.636.878</td>
+                <td class="table__row-cell table__row-cell--blue">74,89%</td>
+                <td class="table__row-cell">2.492.989</td>
+                <td class="table__row-cell table__row-cell--green">28,13%</td>
+                <td class="table__row-cell">6.869.551</td>
+                <td class="table__row-cell table__row-cell--red">77,52%</td>
+                <td class="table__row-cell">13.506.429</td>
+            </tr>
+            <tr class="table__row">
+                <td class="table__row-cell">Paraíba</td>
+                <td class="table__row-cell">3.397.474</td>
+                <td class="table__row-cell table__row-cell--blue">64,44%</td>
+                <td class="table__row-cell">2.114.142</td>
+                <td class="table__row-cell table__row-cell--green">51,82%</td>
+                <td class="table__row-cell">3.495.148</td>
+                <td class="table__row-cell table__row-cell--red">76,71%</td>
+                <td class="table__row-cell">6.805.790</td>
+            </tr>
+            <tr class="table__row">
+                <td class="table__row-cell">Pernambuco</td>
+                <td class="table__row-cell">7.991.191</td>
+                <td class="table__row-cell table__row-cell--blue">82,11%</td>
+                <td class="table__row-cell">4.519.829</td>
+                <td class="table__row-cell table__row-cell--green">46,44%</td>
+                <td class="table__row-cell">8.528.534</td>
+                <td class="table__row-cell table__row-cell--red">87,64%</td>
+                <td class="table__row-cell">16.377.597</td>
+            </tr>
+            <tr class="table__row">
+                <td class="table__row-cell">Piauí</td>
+                <td class="table__row-cell">2.921.881</td>
+                <td class="table__row-cell table__row-cell--blue">88,65%</td>
+                <td class="table__row-cell">1.970.073</td>
+                <td class="table__row-cell table__row-cell--green">59,78%</td>
+                <td class="table__row-cell">3.123.498</td>
+                <td class="table__row-cell table__row-cell--red">94,77%</td>
+                <td class="table__row-cell">5.989.434</td>
+            </tr>
+            <tr class="table__row">
+                <td class="table__row-cell">Paraná</td>
+                <td class="table__row-cell">9.778.886</td>
+                <td class="table__row-cell table__row-cell--blue">83,75%</td>
+                <td class="table__row-cell">6.831.798</td>
+                <td class="table__row-cell table__row-cell--green">58,51%</td>
+                <td class="table__row-cell">10.224.412</td>
+                <td class="table__row-cell table__row-cell--red">87,57%</td>
+                <td class="table__row-cell">19.663.680</td>
+            </tr>
+            <tr class="table__row">
+                <td class="table__row-cell">Rio de Janeiro</td>
+                <td class="table__row-cell">13.683.291</td>
+                <td class="table__row-cell table__row-cell--blue">77,94%</td>
+                <td class="table__row-cell">8.518.921</td>
+                <td class="table__row-cell table__row-cell--green">48,52%</td>
+                <td class="table__row-cell">14.603.299</td>
+                <td class="table__row-cell table__row-cell--red">83,18%</td>
+                <td class="table__row-cell">27.884.034</td>
+            </tr>
+            <tr class="table__row">
+                <td class="table__row-cell">Rio Grande do Norte</td>
+                <td class="table__row-cell">2.780.349</td>
+                <td class="table__row-cell table__row-cell--blue">77,51%</td>
+                <td class="table__row-cell">1.892.404</td>
+                <td class="table__row-cell table__row-cell--green">52,76%</td>
+                <td class="table__row-cell">2.966.630</td>
+                <td class="table__row-cell table__row-cell--red">82,71%</td>
+                <td class="table__row-cell">5.678.854</td>
+            </tr>
+            <tr class="table__row">
+                <td class="table__row-cell">Rondônia</td>
+                <td class="table__row-cell">1.162.646</td>
+                <td class="table__row-cell table__row-cell--blue">63,41%</td>
+                <td class="table__row-cell">547.907</td>
+                <td class="table__row-cell table__row-cell--green">29,88%</td>
+                <td class="table__row-cell">1.324.561</td>
+                <td class="table__row-cell table__row-cell--red">72,24%</td>
+                <td class="table__row-cell">2.487.207</td>
+            </tr>
+            <tr class="table__row">
+                <td class="table__row-cell">Roraima</td>
+                <td class="table__row-cell">363.279</td>
+                <td class="table__row-cell table__row-cell--blue">54,20%</td>
+                <td class="table__row-cell">140.078</td>
+                <td class="table__row-cell table__row-cell--green">20,90%</td>
+                <td class="table__row-cell">461.632</td>
+                <td class="table__row-cell table__row-cell--red">68,87%</td>
+                <td class="table__row-cell">812.577</td>
+            </tr>
+            <tr class="table__row">
+                <td class="table__row-cell">Rio Grande do Sul</td>
+                <td class="table__row-cell">9.472.602</td>
+                <td class="table__row-cell table__row-cell--blue">82,31%</td>
+                <td class="table__row-cell">6.085.003</td>
+                <td class="table__row-cell table__row-cell--green">52,88%</td>
+                <td class="table__row-cell">9.849.826</td>
+                <td class="table__row-cell table__row-cell--red">85,59%</td>
+                <td class="table__row-cell">18.959.629</td>
+            </tr>
+            <tr class="table__row">
+                <td class="table__row-cell">Santa Catarina</td>
+                <td class="table__row-cell">6.051.146</td>
+                <td class="table__row-cell table__row-cell--blue">81,52%</td>
+                <td class="table__row-cell">3.206.726</td>
+                <td class="table__row-cell table__row-cell--green">43,20%</td>
+                <td class="table__row-cell">6.358.381</td>
+                <td class="table__row-cell table__row-cell--red">85,66%</td>
+                <td class="table__row-cell">12.151.670</td>
+            </tr>
+            <tr class="table__row">
+                <td class="table__row-cell">Sergipe</td>
+                <td class="table__row-cell">1.895.581</td>
+                <td class="table__row-cell table__row-cell--blue">80,39%</td>
+                <td class="table__row-cell">1.196.735</td>
+                <td class="table__row-cell table__row-cell--green">50,76%</td>
+                <td class="table__row-cell">2.012.950</td>
+                <td class="table__row-cell table__row-cell--red">85,37%</td>
+                <td class="table__row-cell">3.868.406</td>
+            </tr>
+            <tr class="table__row">
+                <td class="table__row-cell">São Paulo</td>
+                <td class="table__row-cell">41.923.014</td>
+                <td class="table__row-cell table__row-cell--blue">89,20%</td>
+                <td class="table__row-cell">28.631.980</td>
+                <td class="table__row-cell table__row-cell--green">60,92%</td>
+                <td class="table__row-cell">43.105.900</td>
+                <td class="table__row-cell table__row-cell--red">91,72%</td>
+                <td class="table__row-cell">83.742.803</td>
+            </tr>
+            <tr class="table__row">
+                <td class="table__row-cell">Tocantins</td>
+                <td class="table__row-cell">1.051.800</td>
+                <td class="table__row-cell table__row-cell--blue">64,76%</td>
+                <td class="table__row-cell">477.794</td>
+                <td class="table__row-cell table__row-cell--green">29,42%</td>
+                <td class="table__row-cell">1.176.243</td>
+                <td class="table__row-cell table__row-cell--red">72,42%</td>
+                <td class="table__row-cell">2.170.295</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
