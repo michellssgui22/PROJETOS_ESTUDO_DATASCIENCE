@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tela de Login</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <div class="container">
+      <h1>Tela de Login</h1>
+      <form>
+        <label for="username">Nome de usuário:</label>
+        <input type="text" id="username" name="username">
+
+        <label for="password">Senha:</label>
+        <input type="password" id="password" name="password">
+
+        <button type="button" onclick="validar()">Entrar</button>
+      </form>
+      <div id="msg"></div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
+
+<style>
+    body {
+  background-color: #e5e5e5;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  margin: 0 auto;
+  max-width: 400px;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-bottom: 10px;
+}
+
+input {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  font-size: 16px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 10px;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #3e8e41;
+}
+
+#error {
+  color: red;
+  font-weight: bold;
+  margin-top: 10px;
+}
+</style>
+
+<script>
+    function validar() {
+    // Obter o nome de usuário e a senha
+    var username = document.getElementById("username").value;
+    var password = document.getElementById("password").value;
+  
+    // Verificar se o nome de usuário e a senha são válidos
+    if (username == "" || password == "") {
+      document.getElementById("msg").innerHTML = "Preencha todos os campos.";
+    } else if (username != "exemplo" || password != "senha123") {
+      document.getElementById("msg").innerHTML = "Nome de usuário ou senha incorretos.";
+    } else {
+      document.getElementById("msg").innerHTML = "Login bem-sucedido!";
+    }
+  }
+</script>

@@ -1,496 +1,484 @@
 ,cidade,bairro,estado,tipo_imovel,m2,quartos,suites,banheiros,vagas,preco
-0, Balneário Camboriú ,Nações , SC,Apartamento,64.91,2,1,1,1,786433.15
-1, Balneário Camboriú ,Nações , SC,Apartamento,98.83,2,2,1,1,907063.86
-2, Itajaí ,Praia Brava , SC,Apartamento,121.22,3,1,1,2,1568373.98
-3, Itajaí ,Praia Brava , SC,Apartamento,93.92,2,2,1,1,1139371.54
-4, Balneário Camboriú ,Nações , SC,Apartamento,62.4,2,1,1,1,735743.13
-5, Itajaí ,Praia Brava , SC,Apartamento,93.92,2,2,1,1,1251281.64
-6, Itajaí ,Praia Brava , SC,Apartamento,121.22,3,1,1,2,1549392.8
-7, Itajaí ,Praia Brava , SC,Apartamento,93.92,2,2,1,1,1127714.23
-10, Balneário Camboriú ,Nações , SC,Apartamento,64.91,2,1,1,1,793882.88
-12, Balneário Camboriú ,Nações , SC,Apartamento,70.4,2,2,1,1,862409.28
-13, Balneário Camboriú ,Nações , SC,Apartamento,68.45,2,2,1,1,863863.55
-14, Balneário Camboriú ,Centro , SC,Apartamento,168.0,3,3,4,2,1780000.0
-16, Itajaí ,Praia Brava , SC,Apartamento,185.12,3,3,1,3,5785929.29
-17, Itajaí ,Praia Brava , SC,Apartamento,210.0,4,4,1,4,5945337.37
-18, Itajaí ,Praia Brava , SC,Apartamento,173.0,3,3,1,3,3847060.72
-19, Camboriú ,Tabuleiro , SC,Apartamento,93.94,3,1,1,2,931767.12
-20, Camboriú ,Tabuleiro , SC,Apartamento,72.74,2,1,1,1,816553.01
-21, Camboriú ,Tabuleiro , SC,Apartamento,96.93,3,1,1,2,969367.79
-24, Balneário Camboriú ,Centro , SC,Apartamento,169.7,3,3,1,2,2530000.0
-25, Camboriú ,Tabuleiro , SC,Apartamento,95.23,3,1,1,2,878437.63
-26, Camboriú ,Tabuleiro , SC,Apartamento,62.07,2,1,1,1,638924.68
-27, Camboriú ,Tabuleiro , SC,Apartamento,64.99,2,1,1,1,659174.17
-28, Camboriú ,Tabuleiro , SC,Apartamento,63.8,2,1,1,1,640438.92
-29, Camboriú ,Tabuleiro , SC,Apartamento,98.84,2,2,1,1,999631.44
-30, Camboriú ,Tabuleiro , SC,Apartamento,93.87,2,2,1,1,951639.17
-31, Camboriú ,Tabuleiro , SC,Apartamento,99.52,2,2,1,1,824391.36
-32, Balneário Camboriú ,Centro , SC,Apartamento,287.34,4,4,1,5,14750000.0
-33, Balneário Camboriú ,Centro , SC,Apartamento,128.0,3,3,4,2,2690000.0
-34, Balneário Camboriú ,Centro , SC,Apartamento,353.06,3,3,1,2,3210000.0
-35, Camboriú ,Tabuleiro , SC,Apartamento,73.75,2,1,1,1,776519.56
-36, Camboriú ,Tabuleiro , SC,Apartamento,72.36,2,1,1,1,760066.04
-37, Balneário Camboriú ,Centro , SC,Apartamento,270.0,3,1,3,3,2650000.0
-38, Balneário Camboriú ,Centro , SC,Apartamento,130.0,2,1,2,1,980000.0
-39, Camboriú ,Centro , SC,Casa,370.0,3,3,3,3,3750000.0
-40, Balneário Camboriú ,Nações , SC,Apartamento,97.34,2,2,3,1,1910683.82
-41, Balneário Camboriú ,Nações , SC,Apartamento,65.7,2,1,1,1,784961.92
-42, Balneário Camboriú ,Nações , SC,Apartamento,67.17,2,2,1,1,861965.34
-43, Balneário Camboriú ,Pioneiros , SC,Apartamento,146.34,4,4,1,3,2406979.98
-44, Balneário Camboriú ,Pioneiros , SC,Apartamento,132.19,3,3,1,2,2246716.97
-45, Balneário Camboriú ,Pioneiros , SC,Apartamento,262.09,4,4,1,3,4598208.64
-46, Balneário Camboriú ,Centro , SC,Apartamento,135.7,4,4,1,3,2179253.03
-47, Balneário Camboriú ,Centro , SC,Apartamento,136.2,4,4,1,3,2545557.09
-48, Balneário Camboriú ,Ariribá , SC,Casa,184.92,3,3,1,2,1650731.4
-49, Balneário Camboriú ,Ariribá , SC,Casa,173.18,3,3,1,2,1783854.9
-50, Balneário Camboriú ,Centro , SC,Apartamento,126.11,3,3,1,2,1810479.6
-51, Balneário Camboriú ,Centro , SC,Apartamento,153.46,3,3,1,3,4344611.72
-52, Balneário Camboriú ,Centro , SC,Apartamento,238.0,4,4,1,4,10500000.0
-53, Balneário Camboriú ,Centro , SC,Apartamento,237.0,4,4,1,4,10500000.0
-54, Itajaí ,Praia Brava , SC,Apartamento,182.0,3,1,1,2,2931500.0
-55, Itajaí ,Praia Brava , SC,Apartamento,238.0,3,3,1,6,4809000.0
-58, Itajaí ,Praia dos Amores , SC,Apartamento,203.53,4,4,1,2,7200000.0
-59, Balneário Camboriú ,Centro , SC,Apartamento,317.1,4,2,1,2,3300000.0
-63, Itapema ,Meia Praia , SC,Apartamento,213.72,4,4,1,3,3940000.0
-64, Itapema ,Meia Praia , SC,Apartamento,213.72,4,4,1,3,3940000.0
-65, Itapema ,Meia Praia , SC,Apartamento,427.44,5,5,1,4,14860000.0
-66, Itapema ,Meia Praia , SC,Apartamento,213.72,4,4,1,3,4150000.0
-67, Balneário Camboriú ,Centro , SC,Apartamento,178.77,4,4,1,3,5074444.84
-68, Balneário Camboriú ,Centro , SC,Apartamento,180.66,4,4,1,3,5466618.25
-69, Balneário Camboriú ,Nações , SC,Apartamento,65.7,2,1,1,1,797317.38
-70, Balneário Camboriú ,Centro , SC,Apartamento,136.2,4,4,1,3,2373590.16
-71, Balneário Camboriú ,Ariribá , SC,Casa,182.23,3,3,1,2,1624106.7
-72, Balneário Camboriú ,Centro , SC,Apartamento,126.11,3,3,1,2,1757230.2
-73, Balneário Camboriú ,Nações , SC,Apartamento,108.79,2,2,3,2,2819555.13
-74, Balneário Camboriú ,Centro , SC,Apartamento,151.05,4,2,1,3,3141714.6
-75, Balneário Camboriú ,Centro , SC,Apartamento,275.21,4,2,1,3,6629550.3
-76, Balneário Camboriú ,Centro , SC,Apartamento,178.17,4,4,5,3,5240000.0
-77, Balneário Camboriú ,Centro , SC,Apartamento,177.78,4,4,1,3,5240000.0
-78, Balneário Camboriú ,Centro , SC,Apartamento,283.56,4,4,5,4,7700000.0
-79, Balneário Camboriú ,Centro , SC,Apartamento,251.77,4,4,1,4,6840000.0
-80, Balneário Camboriú ,Centro , SC,Apartamento,268.21,4,4,5,4,7280000.0
-81, Balneário Camboriú ,Centro , SC,Apartamento,171.66,4,4,5,3,5360000.0
-82, Balneário Camboriú ,Centro , SC,Apartamento,171.66,4,4,5,3,5360000.0
-83, Balneário Camboriú ,Centro , SC,Apartamento,177.78,4,4,1,3,5460000.0
-84, Balneário Camboriú ,Centro , SC,Apartamento,178.17,4,4,5,3,5460000.0
-85, Balneário Camboriú ,Centro , SC,Apartamento,171.66,4,4,5,3,5460000.0
-86, Balneário Camboriú ,Centro , SC,Apartamento,143.0,4,2,5,3,2500000.0
-88, Balneário Camboriú ,Pioneiros , SC,Apartamento,132.19,3,3,1,2,2174242.75
-89, Balneário Camboriú ,Centro , SC,Apartamento,177.78,4,4,1,3,5240000.0
-90, Balneário Camboriú ,Centro , SC,Apartamento,153.46,3,3,1,3,4431503.96
-91, Balneário Camboriú ,Centro , SC,Apartamento,80.0,2,2,1,1,1959000.0
-92, Balneário Camboriú ,Centro , SC,Apartamento,175.0,4,4,1,3,3250000.0
-93, Balneário Camboriú ,Centro , SC,Apartamento,175.0,4,4,1,3,3350000.0
-94, Balneário Camboriú ,Centro , SC,Apartamento,350.0,4,4,5,4,6300000.0
-95, Balneário Camboriú ,Centro , SC,Apartamento,240.0,3,3,4,3,4200000.0
-96, Balneário Camboriú ,Centro , SC,Apartamento,238.0,4,4,1,4,9200000.0
-97, Balneário Camboriú ,Centro , SC,Apartamento,238.0,4,4,1,4,10500000.0
-98, Balneário Camboriú ,Centro , SC,Apartamento,237.0,4,4,1,4,10500000.0
-99, Balneário Camboriú ,Barra Sul , SC,Apartamento,194.25,4,4,1,3,6190000.0
-100, Balneário Camboriú ,Praia do Estaleiro , SC,Casa,458.0,5,4,1,4,20000000.0
-102, Itajaí ,Praia Brava , SC,Apartamento,118.0,3,1,1,2,2030000.0
-103, Balneário Camboriú ,Centro , SC,Apartamento,238.0,4,4,1,4,10500000.0
-104, Itajaí ,Praia Brava , SC,Apartamento,226.0,4,4,1,4,8400000.0
-105, Balneário Camboriú ,Centro , SC,Apartamento,238.0,4,4,1,4,10500000.0
-106, Balneário Camboriú ,Centro , SC,Apartamento,238.0,4,4,1,4,10500000.0
-107, Balneário Camboriú ,Nações , SC,Apartamento,90.21,2,2,3,1,1925100.54
-108, Balneário Camboriú ,Centro , SC,Apartamento,238.0,4,4,1,4,10500000.0
-109, Balneário Camboriú ,Nações , SC,Apartamento,83.8,2,2,1,1,2277564.34
-110, Balneário Camboriú ,Centro , SC,Apartamento,237.0,4,4,1,4,10500000.0
-112, Balneário Camboriú ,Centro , SC,Apartamento,121.9,3,3,1,4,1950000.0
-113, Balneário Camboriú ,Nações , SC,Apartamento,96.99,2,2,3,1,1903813.68
-114, Balneário Camboriú ,Nações , SC,Apartamento,90.18,2,2,1,2,2450963.63
-115, Balneário Camboriú ,Centro , SC,Apartamento,180.54,4,4,1,3,5150561.51
-116, Balneário Camboriú ,Centro , SC,Apartamento,178.77,4,4,1,3,5306237.23
-117, Balneário Camboriú ,Centro , SC,Apartamento,180.66,4,4,1,3,5716324.49
-118, Balneário Camboriú ,Centro , SC,Apartamento,180.54,4,4,1,3,5889100.4
-119, Balneário Camboriú ,Centro , SC,Apartamento,361.2,4,4,1,3,13046103.0
-120, Balneário Camboriú ,Centro , SC,Apartamento,255.0,4,4,1,3,6649518.83
-121, Balneário Camboriú ,Nações , SC,Apartamento,101.56,2,2,1,1,905065.14
-122, Balneário Camboriú ,Nações , SC,Apartamento,67.17,2,2,1,1,854783.6
-123, Balneário Camboriú ,Nações , SC,Apartamento,65.7,2,1,1,1,797317.38
-124, Balneário Camboriú ,Nações , SC,Apartamento,67.17,2,2,1,1,861965.34
-125, Balneário Camboriú ,Nações , SC,Apartamento,65.7,2,1,1,1,804502.05
-126, Balneário Camboriú ,Pioneiros , SC,Apartamento,146.34,4,4,1,3,2567445.73
-127, Balneário Camboriú ,Pioneiros , SC,Apartamento,146.34,4,4,1,3,2567445.73
-128, Balneário Camboriú ,Pioneiros , SC,Apartamento,132.19,3,3,1,2,2464141.1
-129, Balneário Camboriú ,Centro , SC,Apartamento,177.78,4,4,1,3,5360000.0
-130, Balneário Camboriú ,Centro , SC,Apartamento,178.17,4,4,5,3,5360000.0
-131, Balneário Camboriú ,Centro , SC,Apartamento,178.17,4,4,5,3,5580000.0
-132, Balneário Camboriú ,Centro , SC,Apartamento,171.66,4,4,5,3,5580000.0
-133, Balneário Camboriú ,Centro , SC,Apartamento,177.78,4,4,1,3,5120000.0
-134, Balneário Camboriú ,Centro , SC,Apartamento,171.66,4,4,5,3,5120000.0
-135, Balneário Camboriú ,Centro , SC,Apartamento,146.0,4,2,1,3,2300000.0
-136, Balneário Camboriú ,Centro , SC,Apartamento,146.0,4,2,1,3,2990000.0
-137, Balneário Camboriú ,Centro , SC,Apartamento,146.0,4,2,1,3,2260000.0
-138, Balneário Camboriú ,Centro , SC,Apartamento,146.0,4,2,1,3,2300000.0
-139, Balneário Camboriú ,Centro , SC,Apartamento,143.43,4,4,1,3,3857000.0
-140, Balneário Camboriú ,Centro , SC,Apartamento,222.85,5,5,1,4,4604000.0
-141, Balneário Camboriú ,Centro , SC,Apartamento,188.99,4,4,1,3,4733000.0
-143, Balneário Camboriú ,Centro , SC,Apartamento,138.07,4,4,1,3,2850000.0
-144, Balneário Camboriú ,Centro , SC,Apartamento,238.68,5,5,1,4,4830000.0
-145, Balneário Camboriú ,Centro , SC,Apartamento,135.6,3,3,4,3,2050000.0
-147, Itajaí ,Praia Brava , SC,Apartamento,151.97,3,3,1,3,3564120.0
-148, Itajaí ,Praia Brava , SC,Apartamento,361.58,4,4,1,4,7091211.98
-149, Itajaí ,Praia Brava , SC,Apartamento,231.9,3,3,1,3,4572215.0
-150, Itajaí ,Praia Brava , SC,Apartamento,548.14,4,4,1,3,8209224.83
-151, Balneário Camboriú ,Centro , SC,Apartamento,138.07,4,4,1,3,3070000.0
-152, Balneário Camboriú ,Centro , SC,Apartamento,182.59,4,4,1,3,3307000.0
-153, Balneário Camboriú ,Centro , SC,Apartamento,135.6,3,3,4,3,2000000.0
-154, Balneário Camboriú ,Centro , SC,Apartamento,122.3,3,3,1,2,1610000.0
-155, Balneário Camboriú ,Centro , SC,Apartamento,138.07,4,4,1,3,2970000.0
-156, Balneário Camboriú ,Centro , SC,Apartamento,91.9,2,2,2,1,1350000.0
-157, Balneário Camboriú ,Centro , SC,Apartamento,135.6,3,3,4,3,2070000.0
-158, Balneário Camboriú ,Centro , SC,Apartamento,135.6,3,3,4,3,2220000.0
-159, Balneário Camboriú ,Centro , SC,Apartamento,138.07,4,4,1,3,3180000.0
-160, Balneário Camboriú ,Centro , SC,Apartamento,135.6,3,3,4,3,2170000.0
-161, Balneário Camboriú ,Centro , SC,Apartamento,138.07,4,4,1,3,3510000.0
-162, Balneário Camboriú ,Centro , SC,Apartamento,138.07,4,4,1,3,2960000.0
-163, Balneário Camboriú ,Centro , SC,Apartamento,182.59,4,4,1,3,3205000.0
-164, Balneário Camboriú ,Centro , SC,Apartamento,143.43,4,4,1,3,3976000.0
-165, Balneário Camboriú ,Centro , SC,Apartamento,188.99,4,4,1,3,4619000.0
-166, Balneário Camboriú ,Centro , SC,Apartamento,188.99,4,4,1,3,4542000.0
-167, Balneário Camboriú ,Centro , SC,Apartamento,188.99,4,4,1,3,5206000.0
-168, Balneário Camboriú ,Centro , SC,Apartamento,143.43,4,4,1,3,3178000.0
-169, Balneário Camboriú ,Centro , SC,Apartamento,143.43,4,4,1,3,3615000.0
-175, Balneário Camboriú ,Centro , SC,Apartamento,170.6,4,4,1,3,4396965.45
-176, Balneário Camboriú ,Centro , SC,Apartamento,150.48,4,4,1,3,2106023.17
-177, Balneário Camboriú ,Centro , SC,Apartamento,214.49,4,4,1,3,4396965.45
-178, Balneário Camboriú ,Centro , SC,Apartamento,140.15,4,2,1,2,2377515.7
-181, Balneário Camboriú ,Centro , SC,Apartamento,150.48,4,4,1,3,2126569.74
-184, Balneário Camboriú ,Centro , SC,Apartamento,150.48,4,4,1,3,2718112.04
-185, Balneário Camboriú ,Centro , SC,Apartamento,170.6,4,4,1,3,4684617.39
-186, Balneário Camboriú ,Centro , SC,Apartamento,150.48,4,4,1,3,2301215.56
-187, Balneário Camboriú ,Pioneiros , SC,Apartamento,130.75,3,3,1,2,3050000.0
-188, Balneário Camboriú ,Santa Regina , SC,Casa,309.0,4,4,5,4,2900000.0
-190, Balneário Camboriú ,Centro , SC,Apartamento,131.77,4,2,3,3,3950000.0
-191, Itajaí ,Praia Brava , SC,Apartamento,64.61,2,1,1,1,937050.08
-192, Itajaí ,Praia Brava , SC,Apartamento,64.61,2,1,1,2,918835.28
-193, Balneário Camboriú ,Centro , SC,Apartamento,123.22,3,3,1,2,2293054.26
-194, Balneário Camboriú ,Centro , SC,Apartamento,172.99,3,3,1,2,2991407.31
-195, Balneário Camboriú ,Centro , SC,Apartamento,175.55,3,3,4,3,3234790.0
-196, Balneário Camboriú ,Centro , SC,Apartamento,367.25,5,5,6,6,7822250.0
-198, Balneário Camboriú ,Centro , SC,Apartamento,152.15,4,4,1,2,2301214.88
-199, Balneário Camboriú ,Centro , SC,Apartamento,120.11,3,3,4,2,1980000.0
-200, Balneário Camboriú ,Centro , SC,Apartamento,123.22,3,3,1,2,2376347.09
-201, Balneário Camboriú ,Centro , SC,Apartamento,175.55,3,3,4,3,3269900.0
-202, Balneário Camboriú ,Centro , SC,Apartamento,175.55,3,3,4,3,3585890.0
-203, Balneário Camboriú ,Centro , SC,Apartamento,175.55,3,3,4,3,3691220.0
-204, Balneário Camboriú ,Centro , SC,Apartamento,175.55,3,3,4,3,3726330.0
-205, Balneário Camboriú ,Centro , SC,Apartamento,368.89,5,5,6,6,8963360.0
-206, Balneário Camboriú ,Quadra Mar , SC,Apartamento,182.11,4,4,4,3,8250000.0
-207, Camboriú ,Tabuleiro , SC,Apartamento,95.0,3,1,2,2,780000.0
-208, Balneário Camboriú ,Centro , SC,Apartamento,80.0,2,1,2,1,980000.0
-209, Balneário Camboriú ,Centro , SC,Apartamento,77.0,2,2,2,1,950000.0
-210, Itajaí ,Praia Brava , SC,Apartamento,350.0,5,5,5,5,12800000.0
-211, Itajaí ,Praia Brava , SC,Apartamento,203.53,4,4,4,2,7000000.0
-212, Balneário Camboriú ,Centro , SC,Apartamento,162.0,3,3,4,3,2850000.0
-213, Balneário Camboriú ,Centro , SC,Apartamento,133.0,3,3,4,4,2490000.0
-214, Balneário Camboriú ,Centro , SC,Apartamento,122.94,3,3,3,3,2850000.0
-215, Balneário Camboriú ,Quadra Mar Barra Sul , SC,Cobertura,245.93,3,3,5,5,4990000.0
-216, Balneário Camboriú ,Quadra Mar Barra Sul , SC,Apartamento,254.27,3,3,4,4,3490000.0
-217, Balneário Camboriú ,Centro , SC,Apartamento,162.0,3,3,5,3,2850000.0
-218, Balneário Camboriú ,Quadra Mar Barra Sul , SC,Apartamento,128.04,3,3,5,3,2750000.0
-219, Balneário Camboriú ,Centro , SC,Apartamento,122.94,3,3,4,3,2750000.0
-221, Balneário Camboriú ,Quadra Mar Barra Sul , SC,Apartamento,128.04,3,3,5,3,2650000.0
-222, Balneário Camboriú ,Barra , SC,Apartamento,100.0,2,1,2,1,700000.0
-223, Balneário Camboriú ,Nações , SC,Apartamento,63.0,2,1,2,1,850000.0
-224, Balneário Camboriú ,Centro , SC,Apartamento,173.79,4,4,5,3,3151325.0
-226, Balneário Camboriú ,Centro , SC,Apartamento,222.39,4,4,5,4,3854700.0
-227, Balneário Camboriú ,Centro , SC,Apartamento,139.16,3,3,3,3,2800000.0
-228, Balneário Camboriú ,Centro , SC,Apartamento,153.71,3,3,4,2,2600000.0
-229, Balneário Camboriú ,Centro , SC,Apartamento,129.61,3,3,4,2,2050000.0
-230, Balneário Camboriú ,Centro , SC,Apartamento,132.59,3,3,4,2,2100000.0
-231, Balneário Camboriú ,Centro , SC,Apartamento,129.61,3,3,4,2,2050000.0
-232, Balneário Camboriú ,Centro , SC,Apartamento,132.3,3,3,4,2,2150000.0
-233, Balneário Camboriú ,Centro , SC,Apartamento,173.79,4,4,5,3,3203462.0
-234, Balneário Camboriú ,Centro , SC,Apartamento,173.79,4,4,5,3,3585800.0
-235, Balneário Camboriú ,Centro , SC,Cobertura,264.15,4,4,1,4,4900000.0
-238, Balneário Camboriú ,Centro , SC,Apartamento,229.2,3,3,4,4,3895330.0
-239, Balneário Camboriú ,Centro , SC,Apartamento,173.79,4,4,5,3,3099188.0
-240, Balneário Camboriú ,Centro , SC,Apartamento,172.0,3,3,4,3,5190000.0
-241, Balneário Camboriú ,Pioneiros , SC,Apartamento,126.85,3,3,1,2,2200000.0
-242, Balneário Camboriú ,Pioneiros , SC,Apartamento,126.85,3,3,1,2,2500000.0
-243, Balneário Camboriú ,Centro , SC,Apartamento,230.86,4,4,4,4,11750000.0
-245, Balneário Camboriú ,Centro , SC,Apartamento,146.85,4,2,3,3,2050000.0
-246, Balneário Camboriú ,Centro , SC,Apartamento,137.0,4,2,3,3,2590000.0
-247, Balneário Camboriú ,Centro , SC,Apartamento,120.57,3,3,4,3,2500000.0
-250, Balneário Camboriú ,Centro , SC,Apartamento,113.68,2,1,2,1,1190000.0
-251, Balneário Camboriú ,Pioneiros , SC,Apartamento,136.69,4,4,1,2,2700000.0
-252, Balneário Camboriú ,Pioneiros , SC,Apartamento,136.69,4,4,1,2,2300000.0
-253, Balneário Camboriú ,Pioneiros , SC,Apartamento,136.69,4,4,1,2,2550000.0
-256, Balneário Camboriú ,Centro , SC,Apartamento,160.41,4,4,6,4,6900000.0
-258, Camboriú ,São Francisco de Assis , SC,Sobrado,112.0,3,3,3,1,850000.0
-259, Camboriú ,Tabuleiro , SC,Apartamento,95.57,2,1,2,1,620000.0
-260, Balneário Camboriú ,Centro , SC,Apartamento,93.17,2,2,1,2,1450000.0
-261, Itajaí ,Praia Brava , SC,Apartamento,226.07,4,4,1,4,9222179.78
-262, Itajaí ,Praia Brava , SC,Apartamento,226.07,4,4,1,4,9325179.16
-263, Balneário Camboriú ,Centro , SC,Apartamento,93.17,2,2,1,2,1450000.0
-264, Balneário Camboriú ,Centro , SC,Apartamento,80.2,3,1,2,1,790000.0
-265, Balneário Camboriú ,Centro , SC,Apartamento,165.0,4,4,5,3,3450000.0
-266, Balneário Camboriú ,Centro , SC,Cobertura,242.3,4,4,5,2,2700000.0
-267, Balneário Camboriú ,Centro , SC,Apartamento,130.0,3,3,4,2,1800000.0
-268, Balneário Camboriú ,Centro , SC,Apartamento,136.0,3,3,3,3,2400000.0
-269, Balneário Camboriú ,Centro , SC,Apartamento,128.0,3,1,2,1,1000000.0
-270, Balneário Camboriú ,Centro , SC,Apartamento,68.83,2,1,2,1,950000.0
-271, Balneário Camboriú ,Barra Sul , SC,Apartamento,157.0,3,3,4,2,7300000.0
-272, Balneário Camboriú ,Pioneiros , SC,Apartamento,130.75,3,3,1,2,2750000.0
-273, Itajaí ,Praia Brava , SC,Apartamento,74.03,2,1,1,2,741000.0
-276, Balneário Camboriú ,Centro , SC,Apartamento,122.35,3,3,3,3,1895000.0
-278, Balneário Camboriú ,Pioneiros , SC,Apartamento,146.0,4,4,1,3,3350500.0
-279, Balneário Camboriú ,Pioneiros , SC,Apartamento,296.2,4,4,1,4,8550800.0
-280, Balneário Camboriú ,Pioneiros , SC,Apartamento,146.0,4,4,1,3,3450800.0
-283, Balneário Camboriú ,Centro , SC,Apartamento,146.52,4,2,1,3,5928000.0
-294, Balneário Camboriú ,Centro , SC,Apartamento,190.0,4,4,1,3,4136399.12
-295, Balneário Camboriú ,Centro , SC,Apartamento,190.0,4,4,1,3,4065346.48
-296, Balneário Camboriú ,Pioneiros , SC,Apartamento,133.52,3,3,4,3,3550000.0
-297, Balneário Camboriú ,Centro , SC,Apartamento,190.0,4,4,1,3,4088699.67
-298, Balneário Camboriú ,Centro , SC,Apartamento,190.0,4,4,1,3,4100333.06
-299, Balneário Camboriú ,Centro , SC,Apartamento,190.0,4,4,1,3,4115102.21
-300, Balneário Camboriú ,Centro , SC,Apartamento,190.0,4,4,1,3,4149253.39
-301, Balneário Camboriú ,Centro , SC,Apartamento,190.0,4,4,1,3,4053626.68
-302, Balneário Camboriú ,Centro , SC,Apartamento,190.0,4,4,1,3,4791600.0
-305, Balneário Camboriú ,Ariribá , SC,Sobrado,150.0,3,1,2,2,1100000.0
-306, Camboriú ,Centro , SC,Apartamento,70.35,2,2,1,1,706929.36
-307, Balneário Camboriú ,Pioneiros , SC,Apartamento,140.0,3,1,3,4,1700000.0
-308, Itajaí ,Praia Brava , SC,Apartamento,56.18,2,1,1,2,637000.0
-309, Itajaí ,Praia Brava , SC,Apartamento,59.81,2,1,1,2,652000.0
-310, Itajaí ,Praia Brava , SC,Apartamento,65.19,2,1,1,2,695000.0
-311, Balneário Camboriú ,Pioneiros , SC,Cobertura,268.0,3,3,4,4,5450000.0
-312, Balneário Camboriú ,Centro , SC,Apartamento,100.0,3,1,2,1,1550000.0
-313, Balneário Camboriú ,Pioneiros , SC,Apartamento,233.22,4,4,1,3,6023000.0
-314, Itajaí ,Praia Brava , SC,Apartamento,80.25,2,1,1,2,1013204.09
-315, Itajaí ,Praia Brava , SC,Apartamento,80.63,3,1,1,2,987344.21
-316, Itajaí ,Praia Brava , SC,Apartamento,98.72,3,3,1,2,2276567.58
-317, Itajaí ,Praia Brava , SC,Apartamento,224.79,4,4,1,3,4953902.86
-318, Itajaí ,Praia Brava , SC,Apartamento,289.9,4,4,1,5,6029819.43
-319, Itajaí ,Praia Brava , SC,Apartamento,152.8,3,3,1,2,3407319.03
-320, Itajaí ,Praia Brava , SC,Apartamento,144.8,3,3,1,3,3212904.27
-321, Balneário Camboriú ,Pioneiros , SC,Cobertura,251.0,3,3,4,5,6500000.0
-322, Balneário Camboriú ,Centro , SC,Apartamento,123.22,3,3,1,2,2222000.0
-323, Balneário Camboriú ,Centro , SC,Apartamento,139.0,3,3,4,1,3900000.0
-324, Balneário Camboriú ,Barra Sul , SC,Apartamento,160.41,4,4,5,3,5800000.0
-325, Balneário Camboriú ,Centro , SC,Apartamento,146.8,3,3,1,2,4650000.0
-326, Balneário Camboriú ,Centro , SC,Apartamento,171.66,4,4,1,3,5800000.0
-327, Balneário Camboriú ,Barra Sul , SC,Apartamento,160.41,4,4,5,3,6000000.0
-328, Balneário Camboriú ,Centro , SC,Apartamento,155.0,3,3,4,3,2380000.0
-329, Balneário Camboriú ,Centro , SC,Apartamento,190.17,3,3,4,2,1800000.0
-330, Balneário Camboriú ,Centro , SC,Apartamento,98.41,3,1,1,2,1536150.0
-331, Balneário Camboriú ,Centro , SC,Apartamento,96.97,3,1,1,2,1547700.0
-332, Balneário Camboriú ,Centro , SC,Apartamento,98.41,3,1,1,2,1466850.0
-333, Balneário Camboriú ,Centro , SC,Apartamento,96.97,3,1,1,2,1443750.0
-334, Balneário Camboriú ,Centro , SC,Apartamento,106.41,3,1,1,4,1710940.0
-335, Balneário Camboriú ,Centro , SC,Apartamento,123.71,3,1,1,2,1756920.0
-336, Balneário Camboriú ,Centro , SC,Apartamento,127.14,3,1,1,2,1569370.0
-341, Balneário Camboriú ,Ariribá , SC,Apartamento,200.0,4,4,5,3,2000000.0
-342, Balneário Camboriú ,Ariribá , SC,Apartamento,200.0,4,4,5,3,2000000.0
-343, Balneário Camboriú ,Centro , SC,Apartamento,146.0,4,2,1,3,2750000.0
-344, Balneário Camboriú ,Centro , SC,Apartamento,146.0,4,2,1,3,2550000.0
-345, Balneário Camboriú ,Praia dos Amores , SC,Apartamento,81.77,2,1,1,2,1084260.0
-346, Balneário Camboriú ,Praia dos Amores , SC,Apartamento,81.77,2,1,1,2,1123352.54
-347, Balneário Camboriú ,Praia dos Amores , SC,Apartamento,64.0,1,1,1,1,870750.22
-354, Balneário Camboriú ,Taquaras , SC,Casa,351.15,4,3,4,3,5900000.0
-372, Balneário Camboriú ,Praia dos Amores , SC,Apartamento,64.0,1,1,1,1,844220.0
-375, Balneário Camboriú ,Praia dos Amores , SC,Apartamento,81.77,2,1,1,2,1090304.4
-376, Balneário Camboriú ,Praia dos Amores , SC,Apartamento,62.29,1,1,1,1,793800.0
-378, Balneário Camboriú ,Centro , SC,Apartamento,179.36,3,1,2,2,1390000.0
-379, Balneário Camboriú ,Frente Mar Barra Sul , SC,Cobertura,475.0,6,6,8,6,24900000.0
-380, Balneário Camboriú ,Centro , SC,Apartamento,68.0,2,1,2,1,865000.0
-381, Balneário Camboriú ,Centro , SC,Apartamento,76.56,3,1,2,2,990000.0
-382, Balneário Camboriú ,Centro , SC,Apartamento,76.56,3,1,2,2,990000.0
-383, Camboriú ,São Francisco de Assis , SC,Sobrado,122.38,2,2,3,1,730000.0
-384, Camboriú ,Bairro Rio Pequeno , SC,Sítio,28650.74,3,1,3,2,4000000.0
-385, Balneário Camboriú ,Ariribá , SC,Sobrado,182.23,3,3,4,2,1617213.7
-386, Balneário Camboriú ,Frente Mar Barra Sul , SC,Apartamento,238.0,4,4,4,4,9039500.0
-387, Balneário Camboriú ,Frente Mar Barra Sul , SC,Apartamento,238.0,4,4,4,4,9847500.0
-388, Balneário Camboriú ,Frente Mar Barra Sul , SC,Apartamento,238.0,4,4,4,4,8600000.0
-389, Balneário Camboriú ,Frente Mar Barra Sul , SC,Apartamento,237.0,4,4,4,4,8787000.0
-390, Balneário Camboriú ,Frente Mar , SC,Apartamento,198.0,3,3,4,4,6938700.0
-391, Balneário Camboriú ,Frente Mar Barra Sul , SC,Apartamento,157.72,3,3,4,2,6100000.0
-392, Balneário Camboriú ,Frente Mar Barra Sul , SC,Apartamento,238.0,4,4,4,4,10300000.0
-393, Balneário Camboriú ,Frente Mar Barra Sul , SC,Apartamento,237.0,4,4,4,4,10300000.0
-394, Itajaí ,Praia Brava , SC,Apartamento,268.0,4,4,4,4,9300000.0
-395, Balneário Camboriú ,Barra , SC,Sobrado,210.0,3,3,3,2,2000000.0
-396, Itajaí ,Praia Brava , SC,Apartamento,207.0,4,4,4,4,7400000.0
-397, Camboriú ,Centro , SC,Sobrado,180.0,3,1,3,3,1400000.0
-398, Balneário Camboriú ,Barra Norte , SC,Apartamento,110.0,2,2,3,2,1400000.0
-400, Balneário Camboriú ,Centro , SC,Apartamento,142.0,3,3,4,2,2750000.0
-402, Balneário Camboriú ,Centro , SC,Apartamento,154.0,3,3,4,2,2090000.0
-403, Balneário Camboriú ,Centro , SC,Apartamento,144.38,4,4,4,2,2800000.0
-404, Balneário Camboriú ,Santa Regina , SC,Sobrado,283.94,3,3,4,4,2890000.0
-407, Itajaí ,Praia Brava , SC,Apartamento,110.0,3,1,1,1,1730000.0
-408, Balneário Camboriú ,Praia do Estaleiro , SC,Apartamento,344.29,4,4,1,2,7100000.0
-409, Balneário Camboriú ,Centro , SC,Apartamento,308.45,4,4,4,8,8200000.0
-411, Balneário Camboriú ,Praia do Estaleiro , SC,Apartamento,298.89,4,4,1,2,5450000.0
-413, Balneário Camboriú ,Centro , SC,Apartamento,158.0,2,2,3,2,2600000.0
-416, Balneário Camboriú ,Centro , SC,Apartamento,130.0,3,3,4,3,2300000.0
-417, Balneário Camboriú ,Centro , SC,Apartamento,64.71,2,1,1,1,715000.0
-418, Balneário Camboriú ,Centro , SC,Apartamento,59.96,2,1,1,1,700000.0
-419, Balneário Camboriú ,Centro , SC,Apartamento,188.65,3,3,4,1,3200000.0
-420, Balneário Camboriú ,Centro , SC,Apartamento,149.99,3,3,4,3,3000000.0
-421, Itajaí ,Praia Brava , SC,Apartamento,193.55,3,3,1,2,2830119.5
-423, Balneário Camboriú ,Pioneiros , SC,Apartamento,165.0,3,3,1,3,10000000.0
-424, Balneário Camboriú ,Pioneiros , SC,Apartamento,165.0,3,3,5,3,10000000.0
-425, Balneário Camboriú ,Centro , SC,Apartamento,151.0,3,3,1,3,4800000.0
-426, Balneário Camboriú ,Centro , SC,Apartamento,137.0,3,3,4,4,2800000.0
-427, Balneário Camboriú ,Pontal Norte , SC,Apartamento,118.3,3,3,1,2,2626000.0
-428, Balneário Camboriú ,Pontal Norte , SC,Apartamento,131.39,4,4,1,3,3299000.0
-429, Balneário Camboriú ,Pontal Norte , SC,Apartamento,118.3,3,3,1,2,2999000.0
-430, Balneário Camboriú ,Pontal Norte , SC,Apartamento,131.39,4,4,1,3,2850000.0
-431, Balneário Camboriú ,Centro , SC,Apartamento,125.64,3,3,1,2,1780000.0
-432, Balneário Camboriú ,Centro , SC,Apartamento,210.73,3,3,1,3,3328000.0
-433, Balneário Camboriú ,Centro , SC,Apartamento,132.0,4,2,1,2,2200000.0
-434, Balneário Camboriú ,Centro , SC,Apartamento,270.94,4,2,1,2,2650000.0
-435, Balneário Camboriú ,Pioneiros , SC,Apartamento,130.03,4,4,1,3,1690000.0
-437, Balneário Camboriú ,Centro , SC,Apartamento,59.81,2,1,2,1,690000.0
-438, Balneário Camboriú ,Centro , SC,Apartamento,62.77,2,1,1,1,690000.0
-439, Balneário Camboriú ,Vila Real , SC,Apartamento,65.6,2,1,1,2,840000.0
-441, Balneário Camboriú ,Centro , SC,Apartamento,178.82,3,3,4,2,4950000.0
-442, Balneário Camboriú ,Barra Sul , SC,Apartamento,226.61,4,4,5,2,10895000.0
-443, Balneário Camboriú ,Barra Norte , SC,Apartamento,97.23,3,1,2,2,1250000.0
-444, Itajaí ,Praia Brava , SC,Apartamento,162.2,3,3,1,2,2332788.58
-445, Itajaí ,Praia Brava , SC,Apartamento,193.55,3,3,1,2,2888232.67
-446, Itajaí ,Praia Brava , SC,Apartamento,193.55,3,3,1,2,2911338.84
-447, Balneário Camboriú ,Centro , SC,Apartamento,159.0,4,4,1,4,1980000.0
-448, Balneário Camboriú ,Centro , SC,Apartamento,318.0,4,4,1,4,4250000.0
-449, Balneário Camboriú ,Centro , SC,Apartamento,192.33,4,4,1,4,2170000.0
-450, Balneário Camboriú ,Centro , SC,Apartamento,159.0,4,4,1,4,1960000.0
-451, Camboriú ,São Francisco de Assis , SC,Apartamento,120.0,3,1,1,2,1000000.0
-452, Camboriú ,São Francisco de Assis , SC,Apartamento,116.0,3,1,1,2,1000000.0
-453, Camboriú ,São Francisco de Assis , SC,Apartamento,73.0,2,1,1,1,550000.0
-454, Camboriú ,São Francisco de Assis , SC,Apartamento,99.5,2,2,1,2,750000.0
-455, Camboriú ,São Francisco de Assis , SC,Apartamento,84.0,2,1,1,2,700000.0
-456, Balneário Camboriú ,Centro , SC,Apartamento,159.0,4,4,1,4,1940000.0
-457, Balneário Camboriú ,Centro , SC,Apartamento,159.0,4,4,1,4,2150000.0
-458, Balneário Camboriú ,Centro , SC,Apartamento,120.54,3,3,4,2,2806000.0
-459, Balneário Camboriú ,Centro , SC,Apartamento,120.54,3,3,4,2,2906000.0
-460, Balneário Camboriú ,Centro , SC,Apartamento,144.38,4,4,5,3,2800000.0
-462, Balneário Camboriú ,Centro , SC,Apartamento,137.17,3,3,1,4,3650000.0
-466, Balneário Camboriú ,Centro , SC,Apartamento,130.0,3,3,1,2,2300000.0
-467, Balneário Camboriú ,Centro , SC,Apartamento,120.54,3,3,4,2,2906000.0
-468, Balneário Camboriú ,Centro , SC,Apartamento,92.7,3,1,1,2,1495000.0
-469, Balneário Camboriú ,Centro , SC,Apartamento,139.0,3,3,1,2,2690000.0
-470, Balneário Camboriú ,Centro , SC,Apartamento,143.48,4,4,1,3,2800000.0
-471, Balneário Camboriú ,Pontal Norte , SC,Apartamento,174.0,4,4,5,4,4280800.0
-472, Balneário Camboriú ,Centro , SC,Apartamento,177.1,4,4,1,3,4700000.0
-473, Balneário Camboriú ,Centro , SC,Apartamento,120.0,3,3,1,2,1800000.0
-474, Balneário Camboriú ,Morretes , SC,Apartamento,67.33,1,1,2,1,574414.0
-475, Balneário Camboriú ,Centro , SC,Apartamento,98.0,2,1,3,2,1450000.0
-476, Balneário Camboriú ,Centro , SC,Apartamento,143.0,4,2,3,3,2840800.0
-477, Balneário Camboriú ,Centro , SC,Apartamento,129.8,3,3,1,3,2250000.0
-479, Balneário Camboriú ,Centro , SC,Apartamento,185.0,4,2,1,3,3050000.0
-480, Balneário Camboriú ,Centro , SC,Apartamento,133.0,4,2,1,3,2800000.0
-483, Balneário Camboriú ,Centro , SC,Apartamento,146.0,4,2,1,3,2550000.0
-484, Balneário Camboriú ,Centro , SC,Apartamento,159.94,3,3,1,3,4800000.0
-485, Balneário Camboriú ,Barra Norte , SC,Cobertura,262.0,3,3,3,7,4500000.0
-486, Balneário Camboriú ,Centro , SC,Apartamento,143.73,4,2,1,3,2840800.0
-487, Balneário Camboriú ,Centro , SC,Apartamento,98.41,3,1,1,2,1501500.0
-488, Balneário Camboriú ,Centro , SC,Apartamento,96.97,3,1,1,2,1478400.0
-489, Balneário Camboriú ,Centro , SC,Apartamento,122.7,3,3,1,3,2150000.0
-490, Balneário Camboriú ,Centro , SC,Apartamento,143.48,4,4,1,3,2700000.0
-491, Balneário Camboriú ,Centro , SC,Apartamento,177.1,4,4,1,3,4550000.0
-492, Balneário Camboriú ,Centro , SC,Apartamento,120.0,3,3,1,3,1900000.0
-497, Balneário Camboriú ,Centro , SC,Apartamento,106.41,3,1,1,2,1657700.0
-498, Balneário Camboriú ,Centro , SC,Apartamento,127.14,3,1,1,4,1808950.0
-499, Balneário Camboriú ,Centro , SC,Apartamento,147.01,3,1,1,2,1976535.0
-503, Balneário Camboriú ,Centro , SC,Apartamento,240.0,3,3,1,2,3500000.0
-504, Balneário Camboriú ,Centro , SC,Apartamento,189.32,3,1,1,2,2201850.0
-505, Balneário Camboriú ,Centro , SC,Apartamento,149.48,4,2,1,3,2400000.0
-506, Balneário Camboriú ,Centro , SC,Apartamento,149.48,4,2,1,3,2400000.0
-508, Balneário Camboriú ,Centro , SC,Apartamento,171.0,4,4,1,3,4100000.0
-509, Balneário Camboriú ,Barra Sul , SC,Apartamento,257.0,4,4,6,3,9000000.0
-512, Balneário Camboriú ,Ariribá , SC,Casa,185.0,3,1,1,4,950000.0
-513, Balneário Camboriú ,Centro , SC,Apartamento,185.63,3,3,4,4,6950000.0
-514, Balneário Camboriú ,Centro , SC,Apartamento,80.0,2,1,2,1,820000.0
-515, Camboriú ,São Francisco de Assis , SC,Apartamento,73.94,2,1,1,1,659798.25
-516, Balneário Camboriú ,Centro , SC,Apartamento,126.11,3,3,3,2,1731000.0
-517, Balneário Camboriú ,Quadra Mar , SC,Apartamento,178.17,4,4,5,3,4710000.0
-518, Balneário Camboriú ,Centro , SC,Apartamento,74.0,2,1,2,1,850000.0
-519, Balneário Camboriú ,Centro , SC,Apartamento,258.0,4,4,4,2,5200000.0
-520, Balneário Camboriú ,Centro , SC,Apartamento,144.0,4,4,3,3,3750000.0
-522, Balneário Camboriú ,Barra , SC,Casa,753.0,5,5,8,5,8500000.0
-523, Camboriú ,Tabuleiro , SC,Apartamento,143.5,3,1,2,2,850000.0
-524, Balneário Camboriú ,Centro , SC,Apartamento,100.0,3,1,2,2,2200000.0
-525, Balneário Camboriú ,Centro , SC,Apartamento,92.0,3,1,2,2,1150000.0
-526, Itajaí ,Praia Brava , SC,Apartamento,350.0,5,5,5,5,12500000.0
-527, Balneário Camboriú ,Frente Mar Barra Sul , SC,Cobertura,600.0,6,6,6,4,21400000.0
-528, Balneário Camboriú ,Centro , SC,Apartamento,143.0,3,1,2,2,1390000.0
-529, Balneário Camboriú ,Centro , SC,Apartamento,170.0,4,4,4,3,4500000.0
-530, Balneário Camboriú ,Centro , SC,Apartamento,181.0,4,4,6,3,2986500.0
-531, Balneário Camboriú ,Barra Sul , SC,Cobertura,232.0,4,2,3,2,3000000.0
-533, Balneário Camboriú ,Barra Sul , SC,Cobertura,308.57,4,4,4,4,7200000.0
-534, Itajaí ,Bairro Fazenda , SC,Apartamento,165.4,4,4,4,3,1750000.0
-535, Balneário Camboriú ,Centro , SC,Apartamento,135.6,3,3,3,3,1930000.0
-536, Balneário Camboriú ,Centro , SC,Apartamento,131.39,4,4,4,3,2980000.0
-537, Balneário Camboriú ,Frente Mar , SC,Apartamento,237.0,4,4,4,2,9100000.0
-538, Balneário Camboriú ,Centro , SC,Apartamento,138.07,4,4,4,3,2590000.0
-539, Balneário Camboriú ,Centro , SC,Apartamento duplex,238.68,5,5,5,4,4390000.0
-540, Balneário Camboriú ,Centro , SC,Apartamento,188.99,4,4,4,3,4195000.0
-541, Balneário Camboriú ,Centro , SC,Apartamento duplex,222.85,5,5,5,4,4255000.0
-542, Balneário Camboriú ,Centro , SC,Apartamento,143.43,4,4,4,3,2875000.0
-543, Itajaí ,Praia Brava , SC,Apartamento,93.0,2,2,2,1,1125653.14
-545, Balneário Camboriú ,Centro , SC,Apartamento,123.0,3,3,3,2,2222000.0
-546, Camboriú ,Tabuleiro (Monte Alegre) , SC,Apartamento,72.36,2,1,2,1,589000.0
-547, Balneário Camboriú ,Barra Norte , SC,Apartamento,133.52,3,3,3,3,3076000.0
-548, Balneário Camboriú ,Centro , SC,Apartamento,137.0,3,3,3,4,2400000.0
-549, Balneário Camboriú ,Centro , SC,Apartamento,158.0,2,2,2,2,2400000.0
-550, Balneário Camboriú ,Centro , SC,Apartamento,115.16,3,3,3,2,2110000.0
-551, Balneário Camboriú ,Centro , SC,Apartamento,127.14,3,1,2,2,1542750.0
-555, Balneário Camboriú ,Barra Norte , SC,Apartamento,160.76,4,4,4,3,5920000.0
-556, Balneário Camboriú ,Barra Sul , SC,Apartamento,194.25,4,4,4,3,0.0
-557, Balneário Camboriú ,Barra Sul , SC,Apartamento,120.54,3,3,4,2,2906000.0
-558, Balneário Camboriú ,Centro , SC,Apartamento,152.15,4,2,4,2,2045188.47
-559, Balneário Camboriú ,Centro , SC,Apartamento,123.22,3,3,3,2,2203165.12
-560, Balneário Camboriú ,Barra Norte , SC,Apartamento,61.12,2,1,2,1,740000.0
-561, Balneário Camboriú ,Barra Norte , SC,Apartamento,149.63,4,4,4,2,2850000.0
-562, Balneário Camboriú ,Barra Norte , SC,Apartamento,136.69,4,4,4,2,1850000.0
-563, Balneário Camboriú ,Barra Sul , SC,Apartamento,160.41,4,4,4,4,6500000.0
-564, Itapema ,Meia Praia , SC,Cobertura,427.44,5,5,5,4,14541000.0
-565, Itapema ,Meia Praia , SC,Apartamento,213.72,4,4,4,3,3850000.0
-566, Balneário Camboriú ,Centro , SC,Apartamento,137.45,4,2,3,3,2100000.0
-567, Balneário Camboriú ,Centro , SC,Apartamento,180.0,4,4,4,4,4900000.0
-568, Balneário Camboriú ,Centro , SC,Apartamento,123.0,3,3,3,2,2874142.3
-569, Itajaí ,Praia Brava , SC,Apartamento,64.61,2,1,2,1,790000.0
-570, Balneário Camboriú ,Centro , SC,Apartamento,159.94,3,3,3,3,4500000.0
-571, Balneário Camboriú ,Centro , SC,Apartamento,131.77,4,2,3,3,4096000.0
-572, Balneário Camboriú ,Barra Norte , SC,Apartamento,145.81,4,4,4,2,4692000.0
-573, Balneário Camboriú ,Barra Norte , SC,Apartamento,130.75,4,2,3,2,2700000.0
-574, Balneário Camboriú ,Centro , SC,Apartamento,130.45,3,3,3,3,2600000.0
-575, Balneário Camboriú ,Centro , SC,Apartamento,143.0,3,3,3,2,2685000.0
-576, Balneário Camboriú ,Centro , SC,Apartamento,143.18,4,2,3,2,2761000.0
-577, Balneário Camboriú ,Centro , SC,Apartamento,121.5,3,1,2,2,1850000.0
-578, Balneário Camboriú ,Centro , SC,Apartamento,146.0,4,2,3,3,2850000.0
-579, Balneário Camboriú ,Centro , SC,Apartamento,122.7,3,3,3,3,2600000.0
-580, Balneário Camboriú ,Centro , SC,Apartamento,143.48,4,4,4,3,2550000.0
-581, Balneário Camboriú ,Barra Sul , SC,Apartamento,120.54,3,3,3,2,2500000.0
-582, Balneário Camboriú ,Centro , SC,Apartamento,136.0,4,4,4,3,2021000.0
-583, Camboriú ,Santa Regina , SC,Casa,233.02,3,3,3,5,2500000.0
-584, Balneário Camboriú ,Centro , SC,Cobertura,240.0,4,4,4,3,3950000.0
-585, Balneário Camboriú ,Barra Sul , SC,Apartamento,277.0,4,4,4,3,5250000.0
-586, Balneário Camboriú ,Barra Norte , SC,Apartamento,165.0,3,3,3,3,7500000.0
-587, Balneário Camboriú ,Centro , SC,Apartamento,159.0,4,4,4,4,2150000.0
-588, Balneário Camboriú ,Barra Norte , SC,Apartamento,165.0,3,3,3,3,7500000.0
-589, Balneário Camboriú ,Barra Sul , SC,Apartamento,220.79,4,4,4,3,5450000.0
-590, Balneário Camboriú ,Barra Norte , SC,Apartamento,146.34,4,4,4,3,2400000.0
-592, Balneário Camboriú ,Centro , SC,Apartamento,139.16,3,3,4,2,2400000.0
-593, Balneário Camboriú ,Centro , SC,Apartamento,130.0,3,1,2,1,1450000.0
-594, Itajaí ,Balneário Santa Clara , SC,Apartamento,144.0,3,3,4,2,3200000.0
-595, Balneário Camboriú ,Praia dos Amores , SC,Apartamento,55.0,2,2,3,1,850000.0
-596, Balneário Camboriú ,Frente Mar , SC,Cobertura,340.0,4,4,5,4,5700000.0
-597, Balneário Camboriú ,Pioneiros , SC,Apartamento,140.0,3,3,4,3,2900000.0
-598, Itajaí ,Praia Brava , SC,Apartamento,168.0,3,3,3,3,6197040.0
-599, Balneário Camboriú ,Frente Mar , SC,Apartamento,380.0,4,3,5,2,6300000.0
-600, Balneário Camboriú ,Frente Mar Barra Sul , SC,Apartamento,128.0,3,3,4,2,3400000.0
-601, Balneário Camboriú ,Centro , SC,Apartamento,208.0,4,4,5,2,3200000.0
-602, Balneário Camboriú ,Nações , SC,Apartamento,110.0,2,1,2,1,690000.0
-603, Balneário Camboriú ,Centro , SC,Apartamento,134.0,3,3,4,3,1950000.0
-604, Balneário Camboriú ,Centro , SC,Apartamento,167.0,4,4,3,3,4080000.0
-605, Balneário Camboriú ,Centro , SC,Apartamento,167.0,4,4,5,3,4080000.0
-606, Balneário Camboriú ,Centro , SC,Cobertura,257.0,3,3,3,3,4850000.0
-607, Balneário Camboriú ,Centro , SC,Apartamento,128.78,3,3,3,2,2650000.0
-608, Balneário Camboriú ,Centro , SC,Apartamento,128.44,3,3,3,2,2530000.0
-609, Balneário Camboriú ,Centro , SC,Cobertura,269.0,4,4,4,3,4750000.0
-610, Balneário Camboriú ,Centro , SC,Apartamento,170.0,4,4,4,3,5200000.0
-611, Balneário Camboriú ,Centro , SC,Cobertura,352.99,4,4,4,4,3650000.0
-612, Balneário Camboriú ,Centro , SC,Apartamento,93.17,2,2,2,2,1400000.0
-613, Balneário Camboriú ,Centro , SC,Apartamento,143.73,4,2,3,3,3340800.0
+0, Itajaí ,Praia dos Amores , SC,Apartamento,203.53,4,4,1,2,7200000.0
+1, Itajaí ,Praia Brava , SC,Apartamento,185.12,3,3,1,3,5926273.63
+2, Itajaí ,Praia Brava , SC,Apartamento,210.0,4,4,1,4,6089548.34
+3, Balneário Camboriú ,Centro , SC,Apartamento,317.1,4,2,1,2,3300000.0
+4, Balneário Camboriú ,Centro , SC,Apartamento,185.63,3,3,4,4,6950000.0
+5, Balneário Camboriú ,Praia do Estaleiro , SC,Casa,458.0,5,4,1,4,20000000.0
+7, Balneário Camboriú ,Centro , SC,Apartamento,190.17,3,3,4,2,1980000.0
+8, Balneário Camboriú ,Centro , SC,Apartamento,68.83,2,1,2,1,950000.0
+9, Balneário Camboriú ,Pioneiros , SC,Apartamento,126.85,3,3,1,2,2550000.0
+10, Balneário Camboriú ,Centro , SC,Apartamento,141.03,3,3,4,2,2800000.0
+11, Balneário Camboriú ,Pioneiros , SC,Apartamento,136.69,4,4,1,2,2750000.0
+12, Balneário Camboriú ,Pioneiros , SC,Apartamento,233.22,4,4,1,3,6023000.0
+13, Balneário Camboriú ,Centro , SC,Apartamento,159.0,4,4,1,4,1980000.0
+14, Balneário Camboriú ,Centro , SC,Apartamento,238.0,4,4,1,4,10500000.0
+15, Balneário Camboriú ,Centro , SC,Apartamento,170.6,4,4,1,3,4415706.5
+16, Balneário Camboriú ,Centro , SC,Apartamento,214.49,4,4,1,3,4415706.5
+17, Balneário Camboriú ,Centro , SC,Apartamento,318.0,4,4,1,4,4250000.0
+18, Balneário Camboriú ,Centro , SC,Apartamento,192.33,4,4,1,4,2170000.0
+19, Balneário Camboriú ,Centro , SC,Apartamento,159.0,4,4,1,4,1960000.0
+20, Balneário Camboriú ,Centro , SC,Apartamento,159.0,4,4,1,4,1940000.0
+21, Balneário Camboriú ,Centro , SC,Apartamento,122.3,3,3,1,2,1610000.0
+22, Balneário Camboriú ,Centro , SC,Apartamento,159.0,4,4,1,4,2150000.0
+25, Balneário Camboriú ,Centro , SC,Apartamento,146.52,4,2,1,3,5928000.0
+30, Balneário Camboriú ,Centro , SC,Apartamento,238.0,4,4,1,4,9200000.0
+31, Balneário Camboriú ,Centro , SC,Apartamento,170.6,4,4,1,3,4704584.49
+37, Balneário Camboriú ,Nações , SC,Apartamento,110.0,2,1,2,1,750000.0
+38, Balneário Camboriú ,Centro , SC,Apartamento,122.7,3,3,1,3,2250000.0
+39, Balneário Camboriú ,Pontal Norte , SC,Apartamento,118.3,3,3,1,2,2626000.0
+40, Balneário Camboriú ,Pontal Norte , SC,Apartamento,131.39,4,4,1,3,3299000.0
+41, Itajaí ,Praia Brava , SC,Apartamento,162.2,3,3,1,2,2519411.67
+42, Itajaí ,Praia Brava , SC,Apartamento,193.55,3,3,1,2,3119291.29
+43, Itajaí ,Praia Brava , SC,Apartamento,193.55,3,3,1,2,3144245.95
+44, Balneário Camboriú ,Centro , SC,Apartamento,123.22,3,3,1,2,2404955.31
+45, Balneário Camboriú ,Centro , SC,Apartamento,172.99,3,3,1,2,3137387.98
+46, Balneário Camboriú ,Centro , SC,Apartamento,152.15,4,4,1,2,2413514.17
+47, Balneário Camboriú ,Pontal Norte , SC,Apartamento,118.3,3,3,1,2,2999000.0
+48, Balneário Camboriú ,Pontal Norte , SC,Apartamento,131.39,4,4,1,3,2850000.0
+49, Itajaí ,Praia Brava , SC,Apartamento,193.55,3,3,1,2,3056529.06
+51, Balneário Camboriú ,Centro , SC,Apartamento,123.22,3,3,1,2,2492312.83
+52, Balneário Camboriú ,Centro , SC,Apartamento,98.0,3,1,2,1,1350000.0
+54, Balneário Camboriú ,Centro , SC,Apartamento,138.07,4,4,1,3,2850000.0
+55, Balneário Camboriú ,Centro , SC,Apartamento,138.07,4,4,1,3,3070000.0
+58, Balneário Camboriú ,Centro , SC,Apartamento,122.35,3,3,3,3,1995000.0
+59, Balneário Camboriú ,Centro , SC,Apartamento,138.07,4,4,1,3,2970000.0
+60, Balneário Camboriú ,Centro , SC,Apartamento,87.0,2,2,1,1,1959000.0
+61, Balneário Camboriú ,Barra Sul , SC,Apartamento,160.41,4,4,5,3,6000000.0
+62, Balneário Camboriú ,Centro , SC,Apartamento,138.07,4,4,1,3,3180000.0
+63, Balneário Camboriú ,Centro , SC,Apartamento,138.07,4,4,1,3,3510000.0
+64, Balneário Camboriú ,Centro , SC,Apartamento,138.07,4,4,1,3,2960000.0
+67, Balneário Camboriú ,Centro , SC,Apartamento,59.96,2,1,1,1,710000.0
+68, Itajaí ,Praia Brava , SC,Apartamento,151.97,3,3,1,3,3564120.0
+69, Itajaí ,Praia Brava , SC,Apartamento,361.58,4,4,1,4,7091211.98
+70, Itajaí ,Praia Brava , SC,Apartamento,548.14,4,4,1,3,8209224.83
+71, Balneário Camboriú ,Centro , SC,Apartamento,146.85,4,2,3,3,2050000.0
+72, Balneário Camboriú ,Centro , SC,Apartamento,127.05,3,3,4,3,1750000.0
+73, Balneário Camboriú ,Centro , SC,Apartamento,59.96,2,1,1,1,720000.0
+74, Camboriú ,Centro , SC,Casa,370.0,3,3,3,3,3750000.0
+75, Balneário Camboriú ,Praia do Estaleiro , SC,Apartamento,344.29,4,4,1,2,7100000.0
+76, Balneário Camboriú ,Centro , SC,Apartamento,150.48,4,4,1,3,2114999.61
+77, Balneário Camboriú ,Centro , SC,Apartamento,150.48,4,4,1,3,2135633.75
+78, Balneário Camboriú ,Centro , SC,Apartamento,150.48,4,4,1,3,2311023.96
+79, Balneário Camboriú ,Centro , SC,Apartamento,150.48,4,4,1,3,2729697.37
+81, Balneário Camboriú ,Praia do Estaleiro , SC,Apartamento,298.89,4,4,1,2,5450000.0
+82, Balneário Camboriú ,Centro , SC,Apartamento,127.05,3,3,4,3,1900000.0
+83, Balneário Camboriú ,Centro , SC,Apartamento,93.17,2,2,1,2,1500000.0
+84, Balneário Camboriú ,Centro , SC,Apartamento,125.64,3,3,1,2,1780000.0
+85, Balneário Camboriú ,Centro , SC,Apartamento,93.17,2,2,1,2,1500000.0
+86, Balneário Camboriú ,Centro , SC,Apartamento,210.73,3,3,1,3,3328000.0
+88, Balneário Camboriú ,Vila Real , SC,Apartamento,65.6,2,1,1,2,840000.0
+92, Itajaí ,Praia Brava , SC,Apartamento,110.0,3,1,1,1,1730000.0
+93, Balneário Camboriú ,Centro , SC,Apartamento,171.66,4,4,1,3,5800000.0
+97, Camboriú ,Tabuleiro (Monte Alegre) , SC,Apartamento,72.36,2,1,2,1,684839.43
+98, Itajaí ,Praia Brava , SC,Apartamento,74.03,2,1,1,2,743000.0
+99, Itapema ,Meia Praia , SC,Apartamento,213.72,4,4,1,3,3940000.0
+100, Itapema ,Meia Praia , SC,Apartamento,213.72,4,4,1,3,3940000.0
+101, Itapema ,Meia Praia , SC,Apartamento,427.44,5,5,1,4,14860000.0
+102, Itapema ,Meia Praia , SC,Apartamento,213.72,4,4,1,3,4150000.0
+103, Balneário Camboriú ,Praia dos Amores , SC,Apartamento,64.0,1,1,1,1,844220.0
+106, Balneário Camboriú ,Praia dos Amores , SC,Apartamento,81.77,2,1,1,2,1090304.4
+107, Balneário Camboriú ,Praia dos Amores , SC,Apartamento,62.29,1,1,1,1,793800.0
+108, Camboriú ,Centro , SC,Apartamento,70.35,2,2,1,1,709942.48
+111, Itajaí ,Praia Brava , SC,Apartamento,80.25,2,1,1,2,1017147.56
+112, Itajaí ,Praia Brava , SC,Apartamento,80.63,3,1,1,2,991190.24
+113, Itajaí ,Praia Brava , SC,Apartamento,98.72,3,3,1,2,2284352.9
+114, Itajaí ,Praia Brava , SC,Apartamento,224.79,4,4,1,3,4973739.05
+115, Itajaí ,Praia Brava , SC,Apartamento,289.9,4,4,1,5,6054667.69
+116, Itajaí ,Praia Brava , SC,Apartamento,152.8,3,3,1,2,3421841.94
+117, Balneário Camboriú ,Centro , SC,Apartamento,91.9,2,2,2,1,1350000.0
+118, Itajaí ,Praia Brava , SC,Apartamento,144.8,3,3,1,3,3226598.54
+119, Balneário Camboriú ,Praia dos Amores , SC,Apartamento,81.77,2,1,1,2,1084260.0
+120, Balneário Camboriú ,Praia dos Amores , SC,Apartamento,81.77,2,1,1,2,1123352.54
+121, Balneário Camboriú ,Praia dos Amores , SC,Apartamento,64.0,1,1,1,1,870750.22
+123, Balneário Camboriú ,Centro , SC,Apartamento,130.0,3,3,4,2,1650000.0
+124, Balneário Camboriú ,Nações , SC,Apartamento,64.91,2,1,1,1,786433.15
+125, Itajaí ,Praia Brava , SC,Apartamento,121.22,3,1,1,2,1568373.98
+126, Itajaí ,Praia Brava , SC,Apartamento,93.92,2,2,1,1,1139371.54
+127, Balneário Camboriú ,Nações , SC,Apartamento,62.4,2,1,1,1,735743.13
+128, Itajaí ,Praia Brava , SC,Apartamento,93.92,2,2,1,1,1251281.64
+129, Itajaí ,Praia Brava , SC,Apartamento,121.22,3,1,1,2,1549392.8
+130, Itajaí ,Praia Brava , SC,Apartamento,93.92,2,2,1,1,1127714.23
+131, Balneário Camboriú ,Nações , SC,Apartamento,64.91,2,1,1,1,793882.88
+132, Balneário Camboriú ,Nações , SC,Apartamento,70.4,2,2,1,1,862409.28
+133, Balneário Camboriú ,Nações , SC,Apartamento,68.45,2,2,1,1,863863.55
+134, Balneário Camboriú ,Centro , SC,Apartamento,168.0,3,3,4,2,1780000.0
+136, Camboriú ,Tabuleiro , SC,Apartamento,93.94,3,1,1,2,931767.12
+137, Camboriú ,Tabuleiro , SC,Apartamento,72.74,2,1,1,1,816553.01
+138, Camboriú ,Tabuleiro , SC,Apartamento,96.93,3,1,1,2,969367.79
+141, Balneário Camboriú ,Centro , SC,Apartamento,169.7,3,3,1,2,2530000.0
+142, Camboriú ,Tabuleiro , SC,Apartamento,95.23,3,1,1,2,878437.63
+143, Camboriú ,Tabuleiro , SC,Apartamento,62.07,2,1,1,1,638924.68
+144, Camboriú ,Tabuleiro , SC,Apartamento,64.99,2,1,1,1,659174.17
+145, Camboriú ,Tabuleiro , SC,Apartamento,63.8,2,1,1,1,640438.92
+146, Camboriú ,Tabuleiro , SC,Apartamento,98.84,2,2,1,1,999631.44
+147, Camboriú ,Tabuleiro , SC,Apartamento,93.87,2,2,1,1,951639.17
+148, Camboriú ,Tabuleiro , SC,Apartamento,99.52,2,2,1,1,824391.36
+149, Balneário Camboriú ,Centro , SC,Apartamento,287.34,4,4,1,5,14750000.0
+150, Balneário Camboriú ,Centro , SC,Apartamento,128.0,3,3,4,2,2690000.0
+151, Balneário Camboriú ,Centro , SC,Apartamento,353.06,3,3,1,2,3210000.0
+152, Camboriú ,Tabuleiro , SC,Apartamento,73.75,2,1,1,1,776519.56
+153, Camboriú ,Tabuleiro , SC,Apartamento,72.36,2,1,1,1,760066.04
+154, Balneário Camboriú ,Centro , SC,Apartamento,270.0,3,1,3,3,2650000.0
+155, Balneário Camboriú ,Centro , SC,Apartamento,130.0,2,1,2,1,980000.0
+156, Balneário Camboriú ,Nações , SC,Apartamento,97.34,2,2,3,1,1910683.82
+157, Balneário Camboriú ,Nações , SC,Apartamento,65.7,2,1,1,1,784961.92
+158, Balneário Camboriú ,Nações , SC,Apartamento,67.17,2,2,1,1,861965.34
+159, Balneário Camboriú ,Pioneiros , SC,Apartamento,146.34,4,4,1,3,2406979.98
+160, Balneário Camboriú ,Pioneiros , SC,Apartamento,132.19,3,3,1,2,2246716.97
+161, Balneário Camboriú ,Pioneiros , SC,Apartamento,262.09,4,4,1,3,4598208.64
+162, Balneário Camboriú ,Centro , SC,Apartamento,135.7,4,4,1,3,2179253.03
+163, Balneário Camboriú ,Centro , SC,Apartamento,136.2,4,4,1,3,2545557.09
+164, Balneário Camboriú ,Ariribá , SC,Casa,184.92,3,3,1,2,1650731.4
+165, Balneário Camboriú ,Ariribá , SC,Casa,173.18,3,3,1,2,1783854.9
+166, Balneário Camboriú ,Centro , SC,Apartamento,126.11,3,3,1,2,1810479.6
+167, Balneário Camboriú ,Centro , SC,Apartamento,153.46,3,3,1,3,4344611.72
+168, Itajaí ,Praia Brava , SC,Apartamento,182.0,3,1,1,2,2931500.0
+169, Itajaí ,Praia Brava , SC,Apartamento,238.0,3,3,1,6,4809000.0
+175, Balneário Camboriú ,Centro , SC,Apartamento,178.77,4,4,1,3,5074444.84
+176, Balneário Camboriú ,Centro , SC,Apartamento,180.66,4,4,1,3,5466618.25
+177, Balneário Camboriú ,Nações , SC,Apartamento,65.7,2,1,1,1,797317.38
+178, Balneário Camboriú ,Centro , SC,Apartamento,136.2,4,4,1,3,2373590.16
+179, Balneário Camboriú ,Ariribá , SC,Casa,182.23,3,3,1,2,1624106.7
+180, Balneário Camboriú ,Centro , SC,Apartamento,126.11,3,3,1,2,1757230.2
+181, Balneário Camboriú ,Nações , SC,Apartamento,108.79,2,2,3,2,2819555.13
+182, Balneário Camboriú ,Centro , SC,Apartamento,275.21,4,2,1,3,6629550.3
+183, Balneário Camboriú ,Centro , SC,Apartamento,178.17,4,4,5,3,5240000.0
+184, Balneário Camboriú ,Centro , SC,Apartamento,177.78,4,4,1,3,5240000.0
+185, Balneário Camboriú ,Centro , SC,Apartamento,283.56,4,4,5,4,7700000.0
+186, Balneário Camboriú ,Centro , SC,Apartamento,251.77,4,4,1,4,6840000.0
+187, Balneário Camboriú ,Centro , SC,Apartamento,268.21,4,4,5,4,7280000.0
+188, Balneário Camboriú ,Centro , SC,Apartamento,171.66,4,4,5,3,5360000.0
+189, Balneário Camboriú ,Centro , SC,Apartamento,171.66,4,4,5,3,5360000.0
+190, Balneário Camboriú ,Centro , SC,Apartamento,177.78,4,4,1,3,5460000.0
+191, Balneário Camboriú ,Centro , SC,Apartamento,178.17,4,4,5,3,5460000.0
+192, Balneário Camboriú ,Centro , SC,Apartamento,171.66,4,4,5,3,5460000.0
+193, Balneário Camboriú ,Centro , SC,Apartamento,143.0,4,2,5,3,2500000.0
+195, Balneário Camboriú ,Pioneiros , SC,Apartamento,132.19,3,3,1,2,2174242.75
+196, Balneário Camboriú ,Centro , SC,Apartamento,177.78,4,4,1,3,5240000.0
+197, Balneário Camboriú ,Centro , SC,Apartamento,153.46,3,3,1,3,4431503.96
+198, Balneário Camboriú ,Centro , SC,Apartamento,175.0,4,4,1,3,3250000.0
+199, Balneário Camboriú ,Centro , SC,Apartamento,175.0,4,4,1,3,3350000.0
+200, Balneário Camboriú ,Centro , SC,Apartamento,350.0,4,4,5,4,6300000.0
+201, Balneário Camboriú ,Centro , SC,Apartamento,240.0,3,3,4,3,4200000.0
+202, Balneário Camboriú ,Centro , SC,Apartamento,238.0,4,4,1,4,10500000.0
+203, Balneário Camboriú ,Barra Sul , SC,Apartamento,194.25,4,4,1,3,6190000.0
+204, Itajaí ,Praia Brava , SC,Apartamento,118.0,3,1,1,2,2030000.0
+205, Balneário Camboriú ,Centro , SC,Apartamento,238.0,4,4,1,4,10500000.0
+206, Itajaí ,Praia Brava , SC,Apartamento,226.0,4,4,1,4,8400000.0
+207, Balneário Camboriú ,Centro , SC,Apartamento,238.0,4,4,1,4,10500000.0
+208, Balneário Camboriú ,Nações , SC,Apartamento,90.21,2,2,3,1,1925100.54
+209, Balneário Camboriú ,Nações , SC,Apartamento,83.8,2,2,1,1,2277564.34
+211, Balneário Camboriú ,Centro , SC,Apartamento,121.9,3,3,1,4,1950000.0
+212, Balneário Camboriú ,Nações , SC,Apartamento,96.99,2,2,3,1,1903813.68
+213, Balneário Camboriú ,Nações , SC,Apartamento,90.18,2,2,1,2,2450963.63
+214, Balneário Camboriú ,Centro , SC,Apartamento,180.54,4,4,1,3,5150561.51
+215, Balneário Camboriú ,Centro , SC,Apartamento,178.77,4,4,1,3,5306237.23
+216, Balneário Camboriú ,Centro , SC,Apartamento,180.66,4,4,1,3,5716324.49
+217, Balneário Camboriú ,Centro , SC,Apartamento,180.54,4,4,1,3,5889100.4
+218, Balneário Camboriú ,Centro , SC,Apartamento,361.2,4,4,1,3,13046103.0
+219, Balneário Camboriú ,Centro , SC,Apartamento,255.0,4,4,1,3,6649518.83
+220, Balneário Camboriú ,Nações , SC,Apartamento,101.56,2,2,1,1,905065.14
+221, Balneário Camboriú ,Nações , SC,Apartamento,67.17,2,2,1,1,854783.6
+222, Balneário Camboriú ,Nações , SC,Apartamento,65.7,2,1,1,1,797317.38
+223, Balneário Camboriú ,Nações , SC,Apartamento,67.17,2,2,1,1,861965.34
+224, Balneário Camboriú ,Nações , SC,Apartamento,65.7,2,1,1,1,804502.05
+225, Balneário Camboriú ,Pioneiros , SC,Apartamento,146.34,4,4,1,3,2567445.73
+226, Balneário Camboriú ,Pioneiros , SC,Apartamento,146.34,4,4,1,3,2567445.73
+227, Balneário Camboriú ,Pioneiros , SC,Apartamento,132.19,3,3,1,2,2464141.1
+228, Balneário Camboriú ,Centro , SC,Apartamento,177.78,4,4,1,3,5360000.0
+229, Balneário Camboriú ,Centro , SC,Apartamento,178.17,4,4,5,3,5360000.0
+230, Balneário Camboriú ,Centro , SC,Apartamento,178.17,4,4,5,3,5580000.0
+231, Balneário Camboriú ,Centro , SC,Apartamento,171.66,4,4,5,3,5580000.0
+232, Balneário Camboriú ,Centro , SC,Apartamento,177.78,4,4,1,3,5120000.0
+233, Balneário Camboriú ,Centro , SC,Apartamento,171.66,4,4,5,3,5120000.0
+234, Balneário Camboriú ,Centro , SC,Apartamento,146.0,4,2,1,3,2300000.0
+235, Balneário Camboriú ,Centro , SC,Apartamento,146.0,4,2,1,3,2990000.0
+236, Balneário Camboriú ,Centro , SC,Apartamento,146.0,4,2,1,3,2260000.0
+237, Balneário Camboriú ,Centro , SC,Apartamento,146.0,4,2,1,3,2300000.0
+238, Balneário Camboriú ,Centro , SC,Apartamento,143.43,4,4,1,3,3857000.0
+239, Balneário Camboriú ,Centro , SC,Apartamento,222.85,5,5,1,4,4604000.0
+240, Balneário Camboriú ,Centro , SC,Apartamento,188.99,4,4,1,3,4733000.0
+242, Balneário Camboriú ,Centro , SC,Apartamento,135.6,3,3,4,3,2050000.0
+244, Balneário Camboriú ,Centro , SC,Apartamento,182.59,4,4,1,3,3307000.0
+245, Balneário Camboriú ,Centro , SC,Apartamento,135.6,3,3,4,3,2000000.0
+246, Balneário Camboriú ,Centro , SC,Apartamento,135.6,3,3,4,3,2070000.0
+247, Balneário Camboriú ,Centro , SC,Apartamento,135.6,3,3,4,3,2220000.0
+248, Balneário Camboriú ,Centro , SC,Apartamento,135.6,3,3,4,3,2170000.0
+249, Balneário Camboriú ,Centro , SC,Apartamento,182.59,4,4,1,3,3205000.0
+250, Balneário Camboriú ,Centro , SC,Apartamento,143.43,4,4,1,3,3976000.0
+251, Balneário Camboriú ,Centro , SC,Apartamento,188.99,4,4,1,3,4619000.0
+252, Balneário Camboriú ,Centro , SC,Apartamento,188.99,4,4,1,3,4542000.0
+253, Balneário Camboriú ,Centro , SC,Apartamento,188.99,4,4,1,3,5206000.0
+254, Balneário Camboriú ,Centro , SC,Apartamento,143.43,4,4,1,3,3178000.0
+255, Balneário Camboriú ,Centro , SC,Apartamento,143.43,4,4,1,3,3615000.0
+259, Balneário Camboriú ,Centro , SC,Apartamento,140.15,4,2,1,2,2377515.7
+264, Balneário Camboriú ,Pioneiros , SC,Apartamento,130.75,3,3,1,2,3050000.0
+265, Balneário Camboriú ,Santa Regina , SC,Casa,309.0,4,4,5,4,2900000.0
+267, Balneário Camboriú ,Centro , SC,Apartamento,131.77,4,2,3,3,3950000.0
+268, Balneário Camboriú ,Centro , SC,Apartamento,175.55,3,3,4,3,3234790.0
+269, Balneário Camboriú ,Centro , SC,Apartamento,367.25,5,5,6,6,7822250.0
+271, Balneário Camboriú ,Centro , SC,Apartamento,120.11,3,3,4,2,1980000.0
+272, Balneário Camboriú ,Centro , SC,Apartamento,175.55,3,3,4,3,3269900.0
+273, Balneário Camboriú ,Centro , SC,Apartamento,175.55,3,3,4,3,3585890.0
+274, Balneário Camboriú ,Centro , SC,Apartamento,175.55,3,3,4,3,3691220.0
+275, Balneário Camboriú ,Centro , SC,Apartamento,175.55,3,3,4,3,3726330.0
+276, Balneário Camboriú ,Centro , SC,Apartamento,368.89,5,5,6,6,8963360.0
+277, Balneário Camboriú ,Quadra Mar , SC,Apartamento,182.11,4,4,4,3,8250000.0
+278, Camboriú ,Tabuleiro , SC,Apartamento,95.0,3,1,2,2,780000.0
+279, Balneário Camboriú ,Centro , SC,Apartamento,80.0,2,1,2,1,980000.0
+280, Balneário Camboriú ,Centro , SC,Apartamento,77.0,2,2,2,1,950000.0
+281, Itajaí ,Praia Brava , SC,Apartamento,350.0,5,5,5,5,12800000.0
+282, Itajaí ,Praia Brava , SC,Apartamento,203.53,4,4,4,2,7000000.0
+283, Balneário Camboriú ,Centro , SC,Apartamento,162.0,3,3,4,3,2850000.0
+284, Balneário Camboriú ,Centro , SC,Apartamento,133.0,3,3,4,4,2490000.0
+285, Balneário Camboriú ,Centro , SC,Apartamento,122.94,3,3,3,3,2850000.0
+286, Balneário Camboriú ,Quadra Mar Barra Sul , SC,Cobertura,245.93,3,3,5,5,4990000.0
+287, Balneário Camboriú ,Quadra Mar Barra Sul , SC,Apartamento,254.27,3,3,4,4,3490000.0
+288, Balneário Camboriú ,Centro , SC,Apartamento,162.0,3,3,5,3,2850000.0
+289, Balneário Camboriú ,Quadra Mar Barra Sul , SC,Apartamento,128.04,3,3,5,3,2750000.0
+290, Balneário Camboriú ,Centro , SC,Apartamento,122.94,3,3,4,3,2750000.0
+292, Balneário Camboriú ,Quadra Mar Barra Sul , SC,Apartamento,128.04,3,3,5,3,2650000.0
+293, Balneário Camboriú ,Barra , SC,Apartamento,100.0,2,1,2,1,700000.0
+294, Balneário Camboriú ,Nações , SC,Apartamento,63.0,2,1,2,1,850000.0
+295, Balneário Camboriú ,Centro , SC,Apartamento,173.79,4,4,5,3,3151325.0
+297, Balneário Camboriú ,Centro , SC,Apartamento,222.39,4,4,5,4,3854700.0
+298, Balneário Camboriú ,Centro , SC,Apartamento,139.16,3,3,3,3,2800000.0
+299, Balneário Camboriú ,Centro , SC,Apartamento,129.61,3,3,4,2,2050000.0
+300, Balneário Camboriú ,Centro , SC,Apartamento,132.59,3,3,4,2,2100000.0
+301, Balneário Camboriú ,Centro , SC,Apartamento,129.61,3,3,4,2,2050000.0
+302, Balneário Camboriú ,Centro , SC,Apartamento,132.3,3,3,4,2,2150000.0
+303, Balneário Camboriú ,Centro , SC,Apartamento,173.79,4,4,5,3,3203462.0
+304, Balneário Camboriú ,Centro , SC,Apartamento,173.79,4,4,5,3,3585800.0
+305, Balneário Camboriú ,Centro , SC,Cobertura,264.15,4,4,1,4,4900000.0
+308, Balneário Camboriú ,Centro , SC,Apartamento,229.2,3,3,4,4,3895330.0
+309, Balneário Camboriú ,Centro , SC,Apartamento,173.79,4,4,5,3,3099188.0
+310, Balneário Camboriú ,Centro , SC,Apartamento,172.0,3,3,4,3,5190000.0
+311, Balneário Camboriú ,Pioneiros , SC,Apartamento,126.85,3,3,1,2,2200000.0
+312, Balneário Camboriú ,Centro , SC,Apartamento,230.86,4,4,4,4,11750000.0
+314, Balneário Camboriú ,Centro , SC,Apartamento,137.0,4,2,3,3,2590000.0
+315, Balneário Camboriú ,Centro , SC,Apartamento,120.57,3,3,4,3,2500000.0
+316, Balneário Camboriú ,Centro , SC,Apartamento,113.68,2,1,2,1,1190000.0
+317, Balneário Camboriú ,Pioneiros , SC,Apartamento,136.69,4,4,1,2,2300000.0
+318, Balneário Camboriú ,Pioneiros , SC,Apartamento,136.69,4,4,1,2,2550000.0
+320, Balneário Camboriú ,Centro , SC,Apartamento,160.41,4,4,6,4,6900000.0
+322, Camboriú ,São Francisco de Assis , SC,Sobrado,112.0,3,3,3,1,850000.0
+323, Camboriú ,Tabuleiro , SC,Apartamento,95.57,2,1,2,1,620000.0
+324, Itajaí ,Praia Brava , SC,Apartamento,226.07,4,4,1,4,9222179.78
+325, Itajaí ,Praia Brava , SC,Apartamento,226.07,4,4,1,4,9325179.16
+326, Balneário Camboriú ,Centro , SC,Apartamento,80.2,3,1,2,1,790000.0
+327, Balneário Camboriú ,Centro , SC,Apartamento,165.0,4,4,5,3,3450000.0
+328, Balneário Camboriú ,Centro , SC,Cobertura,242.3,4,4,5,2,2700000.0
+329, Balneário Camboriú ,Centro , SC,Apartamento,136.0,3,3,3,3,2400000.0
+330, Balneário Camboriú ,Centro , SC,Apartamento,128.0,3,1,2,1,1000000.0
+331, Balneário Camboriú ,Barra Sul , SC,Apartamento,157.0,3,3,4,2,7300000.0
+332, Balneário Camboriú ,Pioneiros , SC,Apartamento,130.75,3,3,1,2,2750000.0
+335, Balneário Camboriú ,Pioneiros , SC,Apartamento,146.0,4,4,1,3,3350500.0
+336, Balneário Camboriú ,Pioneiros , SC,Apartamento,296.2,4,4,1,4,8550800.0
+337, Balneário Camboriú ,Pioneiros , SC,Apartamento,146.0,4,4,1,3,3450800.0
+339, Balneário Camboriú ,Centro , SC,Apartamento,190.0,4,4,1,3,4136399.12
+340, Balneário Camboriú ,Centro , SC,Apartamento,190.0,4,4,1,3,4065346.48
+341, Balneário Camboriú ,Pioneiros , SC,Apartamento,133.52,3,3,4,3,3550000.0
+342, Balneário Camboriú ,Centro , SC,Apartamento,190.0,4,4,1,3,4088699.67
+343, Balneário Camboriú ,Centro , SC,Apartamento,190.0,4,4,1,3,4100333.06
+344, Balneário Camboriú ,Centro , SC,Apartamento,190.0,4,4,1,3,4115102.21
+345, Balneário Camboriú ,Centro , SC,Apartamento,190.0,4,4,1,3,4149253.39
+346, Balneário Camboriú ,Centro , SC,Apartamento,190.0,4,4,1,3,4053626.68
+347, Balneário Camboriú ,Centro , SC,Apartamento,190.0,4,4,1,3,4791600.0
+349, Balneário Camboriú ,Ariribá , SC,Sobrado,150.0,3,1,2,2,1100000.0
+350, Balneário Camboriú ,Pioneiros , SC,Apartamento,140.0,3,1,3,4,1700000.0
+351, Itajaí ,Praia Brava , SC,Apartamento,56.18,2,1,1,2,637000.0
+352, Itajaí ,Praia Brava , SC,Apartamento,59.81,2,1,1,2,652000.0
+353, Itajaí ,Praia Brava , SC,Apartamento,65.19,2,1,1,2,695000.0
+354, Balneário Camboriú ,Pioneiros , SC,Cobertura,268.0,3,3,4,4,5450000.0
+355, Balneário Camboriú ,Centro , SC,Apartamento,100.0,3,1,2,1,1550000.0
+356, Balneário Camboriú ,Pioneiros , SC,Cobertura,251.0,3,3,4,5,6500000.0
+357, Balneário Camboriú ,Centro , SC,Apartamento,139.0,3,3,4,1,3900000.0
+358, Balneário Camboriú ,Barra Sul , SC,Apartamento,160.41,4,4,5,3,5800000.0
+359, Balneário Camboriú ,Centro , SC,Apartamento,146.8,3,3,1,2,4650000.0
+360, Balneário Camboriú ,Centro , SC,Apartamento,155.0,3,3,4,3,2380000.0
+361, Balneário Camboriú ,Centro , SC,Apartamento,98.41,3,1,1,2,1536150.0
+362, Balneário Camboriú ,Centro , SC,Apartamento,96.97,3,1,1,2,1547700.0
+363, Balneário Camboriú ,Centro , SC,Apartamento,98.41,3,1,1,2,1466850.0
+364, Balneário Camboriú ,Centro , SC,Apartamento,96.97,3,1,1,2,1443750.0
+365, Balneário Camboriú ,Centro , SC,Apartamento,106.41,3,1,1,4,1710940.0
+366, Balneário Camboriú ,Centro , SC,Apartamento,123.71,3,1,1,2,1756920.0
+367, Balneário Camboriú ,Centro , SC,Apartamento,127.14,3,1,1,2,1569370.0
+372, Balneário Camboriú ,Ariribá , SC,Apartamento,200.0,4,4,5,3,2000000.0
+373, Balneário Camboriú ,Ariribá , SC,Apartamento,200.0,4,4,5,3,2000000.0
+374, Balneário Camboriú ,Centro , SC,Apartamento,146.0,4,2,1,3,2750000.0
+375, Balneário Camboriú ,Centro , SC,Apartamento,146.0,4,2,1,3,2550000.0
+381, Balneário Camboriú ,Taquaras , SC,Casa,351.15,4,3,4,3,5900000.0
+395, Balneário Camboriú ,Centro , SC,Apartamento,179.36,3,1,2,2,1390000.0
+396, Balneário Camboriú ,Frente Mar Barra Sul , SC,Cobertura,475.0,6,6,8,6,24900000.0
+397, Balneário Camboriú ,Centro , SC,Apartamento,68.0,2,1,2,1,865000.0
+398, Balneário Camboriú ,Centro , SC,Apartamento,76.56,3,1,2,2,990000.0
+399, Balneário Camboriú ,Centro , SC,Apartamento,76.56,3,1,2,2,990000.0
+400, Camboriú ,São Francisco de Assis , SC,Sobrado,122.38,2,2,3,1,730000.0
+401, Camboriú ,Bairro Rio Pequeno , SC,Sítio,28650.74,3,1,3,2,4000000.0
+402, Balneário Camboriú ,Ariribá , SC,Sobrado,182.23,3,3,4,2,1617213.7
+403, Balneário Camboriú ,Frente Mar Barra Sul , SC,Apartamento,238.0,4,4,4,4,9039500.0
+404, Balneário Camboriú ,Frente Mar Barra Sul , SC,Apartamento,238.0,4,4,4,4,9847500.0
+405, Balneário Camboriú ,Frente Mar Barra Sul , SC,Apartamento,238.0,4,4,4,4,8600000.0
+406, Balneário Camboriú ,Frente Mar Barra Sul , SC,Apartamento,237.0,4,4,4,4,8787000.0
+407, Balneário Camboriú ,Frente Mar , SC,Apartamento,198.0,3,3,4,4,6938700.0
+408, Balneário Camboriú ,Frente Mar Barra Sul , SC,Apartamento,157.72,3,3,4,2,6100000.0
+409, Balneário Camboriú ,Frente Mar Barra Sul , SC,Apartamento,238.0,4,4,4,4,10300000.0
+410, Balneário Camboriú ,Frente Mar Barra Sul , SC,Apartamento,237.0,4,4,4,4,10300000.0
+411, Itajaí ,Praia Brava , SC,Apartamento,268.0,4,4,4,4,9300000.0
+412, Balneário Camboriú ,Barra , SC,Sobrado,210.0,3,3,3,2,2000000.0
+413, Itajaí ,Praia Brava , SC,Apartamento,207.0,4,4,4,4,7400000.0
+414, Camboriú ,Centro , SC,Sobrado,180.0,3,1,3,3,1400000.0
+415, Balneário Camboriú ,Barra Norte , SC,Apartamento,110.0,2,2,3,2,1400000.0
+417, Balneário Camboriú ,Centro , SC,Apartamento,142.0,3,3,4,2,2750000.0
+419, Balneário Camboriú ,Centro , SC,Apartamento,154.0,3,3,4,2,2090000.0
+420, Balneário Camboriú ,Centro , SC,Apartamento,144.38,4,4,4,2,2800000.0
+421, Balneário Camboriú ,Santa Regina , SC,Sobrado,283.94,3,3,4,4,2890000.0
+422, Balneário Camboriú ,Centro , SC,Apartamento,308.45,4,4,4,8,8200000.0
+425, Balneário Camboriú ,Centro , SC,Apartamento,158.0,2,2,3,2,2600000.0
+426, Balneário Camboriú ,Centro , SC,Apartamento,130.0,3,3,4,3,2300000.0
+427, Balneário Camboriú ,Centro , SC,Apartamento,149.99,3,3,4,3,3000000.0
+428, Balneário Camboriú ,Pioneiros , SC,Apartamento,165.0,3,3,1,3,10000000.0
+429, Balneário Camboriú ,Pioneiros , SC,Apartamento,165.0,3,3,5,3,10000000.0
+430, Balneário Camboriú ,Centro , SC,Apartamento,151.0,3,3,1,3,4800000.0
+431, Balneário Camboriú ,Centro , SC,Apartamento,137.0,3,3,4,4,2800000.0
+432, Balneário Camboriú ,Centro , SC,Apartamento,132.0,4,2,1,2,2200000.0
+433, Balneário Camboriú ,Centro , SC,Apartamento,270.94,4,2,1,2,2650000.0
+434, Balneário Camboriú ,Pioneiros , SC,Apartamento,130.03,4,4,1,3,1690000.0
+436, Balneário Camboriú ,Centro , SC,Apartamento,59.81,2,1,2,1,690000.0
+438, Balneário Camboriú ,Centro , SC,Apartamento,178.82,3,3,4,2,4950000.0
+439, Balneário Camboriú ,Barra Sul , SC,Apartamento,226.61,4,4,5,2,10895000.0
+440, Balneário Camboriú ,Barra Norte , SC,Apartamento,97.23,3,1,2,2,1250000.0
+441, Camboriú ,São Francisco de Assis , SC,Apartamento,120.0,3,1,1,2,1000000.0
+442, Camboriú ,São Francisco de Assis , SC,Apartamento,116.0,3,1,1,2,1000000.0
+443, Camboriú ,São Francisco de Assis , SC,Apartamento,73.0,2,1,1,1,550000.0
+444, Camboriú ,São Francisco de Assis , SC,Apartamento,99.5,2,2,1,2,750000.0
+445, Camboriú ,São Francisco de Assis , SC,Apartamento,84.0,2,1,1,2,700000.0
+446, Balneário Camboriú ,Centro , SC,Apartamento,120.54,3,3,4,2,2806000.0
+447, Balneário Camboriú ,Centro , SC,Apartamento,120.54,3,3,4,2,2906000.0
+448, Balneário Camboriú ,Centro , SC,Apartamento,144.38,4,4,5,3,2800000.0
+449, Balneário Camboriú ,Centro , SC,Apartamento,137.17,3,3,1,4,3650000.0
+451, Balneário Camboriú ,Centro , SC,Apartamento,130.0,3,3,1,2,2300000.0
+452, Balneário Camboriú ,Centro , SC,Apartamento,120.54,3,3,4,2,2906000.0
+453, Balneário Camboriú ,Centro , SC,Apartamento,92.7,3,1,1,2,1495000.0
+454, Balneário Camboriú ,Centro , SC,Apartamento,139.0,3,3,1,2,2690000.0
+455, Balneário Camboriú ,Centro , SC,Apartamento,143.48,4,4,1,3,2800000.0
+456, Balneário Camboriú ,Pontal Norte , SC,Apartamento,174.0,4,4,5,4,4280800.0
+457, Balneário Camboriú ,Centro , SC,Apartamento,177.1,4,4,1,3,4700000.0
+458, Balneário Camboriú ,Centro , SC,Apartamento,120.0,3,3,1,2,1800000.0
+459, Balneário Camboriú ,Morretes , SC,Apartamento,67.33,1,1,2,1,574414.0
+460, Balneário Camboriú ,Centro , SC,Apartamento,98.0,2,1,3,2,1450000.0
+461, Balneário Camboriú ,Centro , SC,Apartamento,143.0,4,2,3,3,2840800.0
+462, Balneário Camboriú ,Centro , SC,Apartamento,129.8,3,3,1,3,2250000.0
+464, Balneário Camboriú ,Centro , SC,Apartamento,185.0,4,2,1,3,3050000.0
+465, Balneário Camboriú ,Centro , SC,Apartamento,133.0,4,2,1,3,2800000.0
+468, Balneário Camboriú ,Centro , SC,Apartamento,146.0,4,2,1,3,2550000.0
+469, Balneário Camboriú ,Centro , SC,Apartamento,159.94,3,3,1,3,4800000.0
+470, Balneário Camboriú ,Barra Norte , SC,Cobertura,262.0,3,3,3,7,4500000.0
+471, Balneário Camboriú ,Centro , SC,Apartamento,143.73,4,2,1,3,2840800.0
+472, Balneário Camboriú ,Centro , SC,Apartamento,98.41,3,1,1,2,1501500.0
+473, Balneário Camboriú ,Centro , SC,Apartamento,96.97,3,1,1,2,1478400.0
+474, Balneário Camboriú ,Centro , SC,Apartamento,143.48,4,4,1,3,2700000.0
+475, Balneário Camboriú ,Centro , SC,Apartamento,177.1,4,4,1,3,4550000.0
+476, Balneário Camboriú ,Centro , SC,Apartamento,120.0,3,3,1,3,1900000.0
+481, Balneário Camboriú ,Centro , SC,Apartamento,106.41,3,1,1,2,1657700.0
+482, Balneário Camboriú ,Centro , SC,Apartamento,127.14,3,1,1,4,1808950.0
+483, Balneário Camboriú ,Centro , SC,Apartamento,147.01,3,1,1,2,1976535.0
+486, Balneário Camboriú ,Centro , SC,Apartamento,240.0,3,3,1,2,3500000.0
+487, Balneário Camboriú ,Centro , SC,Apartamento,189.32,3,1,1,2,2201850.0
+488, Balneário Camboriú ,Centro , SC,Apartamento,149.48,4,2,1,3,2400000.0
+489, Balneário Camboriú ,Centro , SC,Apartamento,149.48,4,2,1,3,2400000.0
+491, Balneário Camboriú ,Centro , SC,Apartamento,171.0,4,4,1,3,4100000.0
+492, Balneário Camboriú ,Barra Sul , SC,Apartamento,257.0,4,4,6,3,9000000.0
+493, Balneário Camboriú ,Ariribá , SC,Casa,185.0,3,1,1,4,950000.0
+494, Balneário Camboriú ,Centro , SC,Apartamento,80.0,2,1,2,1,820000.0
+495, Camboriú ,São Francisco de Assis , SC,Apartamento,73.94,2,1,1,1,659798.25
+496, Balneário Camboriú ,Centro , SC,Apartamento,126.11,3,3,3,2,1731000.0
+497, Balneário Camboriú ,Quadra Mar , SC,Apartamento,178.17,4,4,5,3,4710000.0
+498, Balneário Camboriú ,Centro , SC,Apartamento,74.0,2,1,2,1,850000.0
+499, Balneário Camboriú ,Centro , SC,Apartamento,258.0,4,4,4,2,5200000.0
+500, Balneário Camboriú ,Centro , SC,Apartamento,144.0,4,4,3,3,3750000.0
+502, Balneário Camboriú ,Barra , SC,Casa,753.0,5,5,8,5,8500000.0
+503, Camboriú ,Tabuleiro , SC,Apartamento,143.5,3,1,2,2,850000.0
+504, Balneário Camboriú ,Centro , SC,Apartamento,100.0,3,1,2,2,2200000.0
+505, Balneário Camboriú ,Centro , SC,Apartamento,92.0,3,1,2,2,1150000.0
+506, Itajaí ,Praia Brava , SC,Apartamento,350.0,5,5,5,5,12500000.0
+507, Balneário Camboriú ,Frente Mar Barra Sul , SC,Cobertura,600.0,6,6,6,4,21400000.0
+508, Balneário Camboriú ,Centro , SC,Apartamento,143.0,3,1,2,2,1390000.0
+509, Balneário Camboriú ,Centro , SC,Apartamento,170.0,4,4,4,3,4500000.0
+510, Balneário Camboriú ,Centro , SC,Apartamento,181.0,4,4,6,3,2986500.0
+511, Balneário Camboriú ,Barra Sul , SC,Cobertura,232.0,4,2,3,2,3000000.0
+513, Balneário Camboriú ,Barra Sul , SC,Cobertura,308.57,4,4,4,4,7200000.0
+514, Itajaí ,Bairro Fazenda , SC,Apartamento,165.4,4,4,4,3,1750000.0
+515, Balneário Camboriú ,Centro , SC,Apartamento,135.6,3,3,3,3,1930000.0
+516, Balneário Camboriú ,Centro , SC,Apartamento,131.39,4,4,4,3,2980000.0
+517, Balneário Camboriú ,Frente Mar , SC,Apartamento,237.0,4,4,4,2,9100000.0
+518, Balneário Camboriú ,Centro , SC,Apartamento,138.07,4,4,4,3,2590000.0
+519, Balneário Camboriú ,Centro , SC,Apartamento duplex,238.68,5,5,5,4,4390000.0
+520, Balneário Camboriú ,Centro , SC,Apartamento,188.99,4,4,4,3,4195000.0
+521, Balneário Camboriú ,Centro , SC,Apartamento duplex,222.85,5,5,5,4,4255000.0
+522, Balneário Camboriú ,Centro , SC,Apartamento,143.43,4,4,4,3,2875000.0
+523, Itajaí ,Praia Brava , SC,Apartamento,93.0,2,2,2,1,1125653.14
+525, Balneário Camboriú ,Centro , SC,Apartamento,123.0,3,3,3,2,2222000.0
+526, Balneário Camboriú ,Barra Norte , SC,Apartamento,133.52,3,3,3,3,3076000.0
+527, Balneário Camboriú ,Centro , SC,Apartamento,137.0,3,3,3,4,2400000.0
+528, Balneário Camboriú ,Centro , SC,Apartamento,158.0,2,2,2,2,2400000.0
+529, Balneário Camboriú ,Centro , SC,Apartamento,115.16,3,3,3,2,2110000.0
+530, Balneário Camboriú ,Centro , SC,Apartamento,127.14,3,1,2,2,1542750.0
+534, Balneário Camboriú ,Barra Norte , SC,Apartamento,160.76,4,4,4,3,5920000.0
+535, Balneário Camboriú ,Barra Sul , SC,Apartamento,194.25,4,4,4,3,0.0
+536, Balneário Camboriú ,Barra Sul , SC,Apartamento,120.54,3,3,4,2,2906000.0
+537, Balneário Camboriú ,Centro , SC,Apartamento,152.15,4,2,4,2,2045188.47
+538, Balneário Camboriú ,Centro , SC,Apartamento,123.22,3,3,3,2,2203165.12
+539, Balneário Camboriú ,Barra Norte , SC,Apartamento,61.12,2,1,2,1,740000.0
+540, Balneário Camboriú ,Barra Norte , SC,Apartamento,149.63,4,4,4,2,2850000.0
+541, Balneário Camboriú ,Barra Norte , SC,Apartamento,136.69,4,4,4,2,1850000.0
+542, Balneário Camboriú ,Barra Sul , SC,Apartamento,160.41,4,4,4,4,6500000.0
+543, Itapema ,Meia Praia , SC,Cobertura,427.44,5,5,5,4,14541000.0
+544, Itapema ,Meia Praia , SC,Apartamento,213.72,4,4,4,3,3850000.0
+545, Balneário Camboriú ,Centro , SC,Apartamento,137.45,4,2,3,3,2100000.0
+546, Balneário Camboriú ,Centro , SC,Apartamento,180.0,4,4,4,4,4900000.0
+547, Balneário Camboriú ,Centro , SC,Apartamento,123.0,3,3,3,2,2874142.3
+548, Itajaí ,Praia Brava , SC,Apartamento,64.61,2,1,2,1,790000.0
+549, Balneário Camboriú ,Centro , SC,Apartamento,159.94,3,3,3,3,4500000.0
+550, Balneário Camboriú ,Centro , SC,Apartamento,131.77,4,2,3,3,4096000.0
+551, Balneário Camboriú ,Barra Norte , SC,Apartamento,145.81,4,4,4,2,4692000.0
+552, Balneário Camboriú ,Barra Norte , SC,Apartamento,130.75,4,2,3,2,2700000.0
+553, Balneário Camboriú ,Centro , SC,Apartamento,130.45,3,3,3,3,2600000.0
+554, Balneário Camboriú ,Centro , SC,Apartamento,143.0,3,3,3,2,2685000.0
+555, Balneário Camboriú ,Centro , SC,Apartamento,143.18,4,2,3,2,2761000.0
+556, Balneário Camboriú ,Centro , SC,Apartamento,121.5,3,1,2,2,1850000.0
+557, Balneário Camboriú ,Centro , SC,Apartamento,146.0,4,2,3,3,2850000.0
+558, Balneário Camboriú ,Centro , SC,Apartamento,122.7,3,3,3,3,2600000.0
+559, Balneário Camboriú ,Centro , SC,Apartamento,143.48,4,4,4,3,2550000.0
+560, Balneário Camboriú ,Barra Sul , SC,Apartamento,120.54,3,3,3,2,2500000.0
+561, Balneário Camboriú ,Centro , SC,Apartamento,136.0,4,4,4,3,2021000.0
+562, Camboriú ,Santa Regina , SC,Casa,233.02,3,3,3,5,2500000.0
+563, Balneário Camboriú ,Centro , SC,Cobertura,240.0,4,4,4,3,3950000.0
+564, Balneário Camboriú ,Barra Sul , SC,Apartamento,277.0,4,4,4,3,5250000.0
+565, Balneário Camboriú ,Barra Norte , SC,Apartamento,165.0,3,3,3,3,7500000.0
+566, Balneário Camboriú ,Centro , SC,Apartamento,159.0,4,4,4,4,2150000.0
+567, Balneário Camboriú ,Barra Norte , SC,Apartamento,165.0,3,3,3,3,7500000.0
+568, Balneário Camboriú ,Barra Sul , SC,Apartamento,220.79,4,4,4,3,5450000.0
+569, Balneário Camboriú ,Barra Norte , SC,Apartamento,146.34,4,4,4,3,2400000.0
+571, Balneário Camboriú ,Centro , SC,Apartamento,139.16,3,3,4,2,2400000.0
+572, Balneário Camboriú ,Centro , SC,Apartamento,130.0,3,1,2,1,1450000.0
+573, Itajaí ,Balneário Santa Clara , SC,Apartamento,144.0,3,3,4,2,3200000.0
+574, Balneário Camboriú ,Praia dos Amores , SC,Apartamento,55.0,2,2,3,1,850000.0
+575, Balneário Camboriú ,Frente Mar , SC,Cobertura,340.0,4,4,5,4,5700000.0
+576, Balneário Camboriú ,Pioneiros , SC,Apartamento,140.0,3,3,4,3,2900000.0
+577, Itajaí ,Praia Brava , SC,Apartamento,168.0,3,3,3,3,6197040.0
+578, Balneário Camboriú ,Frente Mar , SC,Apartamento,380.0,4,3,5,2,6300000.0
+579, Balneário Camboriú ,Frente Mar Barra Sul , SC,Apartamento,128.0,3,3,4,2,3400000.0
+580, Balneário Camboriú ,Centro , SC,Apartamento,208.0,4,4,5,2,3200000.0
+581, Balneário Camboriú ,Centro , SC,Apartamento,134.0,3,3,4,3,1950000.0
+582, Balneário Camboriú ,Centro , SC,Apartamento,167.0,4,4,3,3,4080000.0
+583, Balneário Camboriú ,Centro , SC,Apartamento,167.0,4,4,5,3,4080000.0
+584, Balneário Camboriú ,Centro , SC,Cobertura,257.0,3,3,3,3,4850000.0
+585, Balneário Camboriú ,Centro , SC,Apartamento,128.78,3,3,3,2,2650000.0
+586, Balneário Camboriú ,Centro , SC,Apartamento,128.44,3,3,3,2,2530000.0
+587, Balneário Camboriú ,Centro , SC,Cobertura,269.0,4,4,4,3,4750000.0
+588, Balneário Camboriú ,Centro , SC,Apartamento,170.0,4,4,4,3,5200000.0
+589, Balneário Camboriú ,Centro , SC,Cobertura,352.99,4,4,4,4,3650000.0
+590, Balneário Camboriú ,Centro , SC,Apartamento,93.17,2,2,2,2,1400000.0
+591, Balneário Camboriú ,Centro , SC,Apartamento,143.73,4,2,3,3,3340800.0
